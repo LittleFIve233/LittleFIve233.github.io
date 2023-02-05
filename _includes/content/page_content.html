@@ -74,6 +74,7 @@
                     {% endif %}
                     <div class="mdui-card-header-subtitle k-page-date" date="{% if page.lastupdate != null %}{{page.lastupdate | date: "%Y %b %-d"}}{% else %}{{page.date | date: "%Y %b %-d"}}{% endif %}">{{ page.date | date: "%Y %b %-d" }}</div>
                 </div>
+                <h5>若想支持本博客运营或者进入交流群，请点此</h5>
                 <hr />
                 <div class="mdui-card-content mdui-typo">
                     {{ content }}
