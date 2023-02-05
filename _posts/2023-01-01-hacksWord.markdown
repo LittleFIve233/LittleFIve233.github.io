@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WiiU名词讲解及纠正"
-date: 2023-02-03 07:09:00 +0800
+date: 2023-02-05 14:09:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
