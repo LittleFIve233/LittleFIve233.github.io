@@ -56,8 +56,6 @@
                     {% endif %}
                     <div class="mdui-card-header-subtitle k-page-date" date="{% if page.lastupdate != null %}{{page.lastupdate | date: "%b %-d, %Y"}}{% else %}{{page.date | date: "%b %-d, %Y"}}{% endif %}">{{ page.date | date: "%b %-d, %Y" }}</div>
                 </div>
-                {% include content/component/readtime.html %}
-                {% include content/component/lastupdate.html %}
                 <div class="mdui-card-content mdui-typo">
                     {{ content }}
                 </div>
