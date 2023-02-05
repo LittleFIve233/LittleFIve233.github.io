@@ -1,0 +1,53 @@
+---
+layout: post
+title: "制作NAND备份"
+date: 2022-02-04 20:40:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+describe: DumpNAND
+---
+
+## 为什么要制作NAND备份
+
+如果你在之后做错了什么导致砖机，恢复NAND备份就可以修复；关于什么是NAND可以进行百度
+
+## 制作NAND备份
+
+**如果你已经通过其他教程安装了自启动Tiramisu，那么请跳过此章节**
+
+>- Wii U NAND备份的大小取决于你的主机的内部存储大小，例如8GB或32GB。
+>  - 为了备份，你需要准备一张足够大的储存卡，8G请使用16G及更大；32G请至少使用64G的储存卡，如果你没有这么大的储存卡，~~那赶紧去买啊~~可以在备份时把MLC项选择No，**但要记住MLC的备份也很重要，若以后有足够时间足够储存，请一定要备份MLC。**
+
+>恢复NAND备份需要额外的设备和焊接技能。
+
+>注意：备份NAND是为了**以防万一**，所以不要跳过这一步。
+>**你从某一台设备导出的NAND备份是那一台设备所独有的。 恢复其他主机的NAND备份不能救砖。**
+
+1.使用 十字键 选择NANDDumper，并按A键进入
+
+2.使用 Wii U GamePad或手柄上的十字键来配置以下内容：
+
+Dump SLC: yes
+
+Dump SLCCMPT: yes
+
+Dump MLC: 可选
+
+Dump OTP: yes
+
+Dump SEEPROM: yes
+
+3.按下A键开始导出。
+
+4.完成后，将主机关机，然后把SD卡从Wii U上拔出并插入电脑。
+
+5.确认你的内存卡中有以下文件：
+
+slc.bin、slccmpt.bin、seeprom.bin、otp.bin然后将它们复制到电脑上。 
+
+- 若你选择了全部备份，则你还需要复制**所有的mlc.bin.part文件**到电脑上。
+
+6.从储存卡中删除文件来腾出空间。
+
+## [以上步骤全部完成后点我继续（Tiramisu破解）](https://littlefive233.github.io/wiiu/2022/05/27/Hack-Tiramisu.html)
