@@ -1,2 +1,5 @@
-- name: technology
+- name: Wii U
+  img: https://www.nintendo.co.jp/software/wiiu/img/soft-main__image.jpg
+
+- name: 其他
   img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg

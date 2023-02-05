@@ -1,9 +1,9 @@
+- name: Stray-soul.com
+  image: https://raw.githubusercontent.com/LittleFIve233/LittleFIve233.github.io/master/_photo/straysoul.jpg
+  url: https://stray-soul.site/index.php/3dshack-getstarted
+  describe: 3DS破解指南
+
 - name: KeJun
   image: https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png
   url: https://kejun.me
   describe: 二次元智障
-
-- name: MDUI
-  image: 
-  url: https://www.mdui.org/
-  describe: 一套用于开发 Material Design 网页的前端框架
