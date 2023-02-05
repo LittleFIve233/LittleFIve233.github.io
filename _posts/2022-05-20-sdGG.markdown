@@ -1,0 +1,43 @@
+---
+layout: post
+title: "为什么不推荐Switch储存卡用exfat"
+date: 2022-05-29 00:09:00 +0800
+categories: Switch
+tags: Switch hacks
+img: https://s1.ax1x.com/2022/11/28/za7Cse.jpg
+describe: 为什么不推荐Switch储存卡用exfat文件系统
+---
+
+## 为什么不推荐Switch储存卡用exfat文件系统？
+
+**注：本文摘抄于[https://wiidatabase.de/bitte-nutzt-nicht-exfat-fuer-switch-microsd-karten/](https://wiidatabase.de/bitte-nutzt-nicht-exfat-fuer-switch-microsd-karten/)**
+
+注：本文可能含有大量计算机名词
+
+**撰写本文时作者Switch系统为14.1.2，丢失游戏数据为女神异闻录5皇家版，原因是强制关机。**
+
+## 一般exfat相比fat32有什么好处（摘录百度）
+
+1.可以存放4GB以上的文件
+
+2.exfat的性能优于fat32
+
+## 那么在Switch上呢？
+
+首先你要知道，任天堂的驱动烂到爆，会导致系统无时无刻都在更改文件
+
+1.exfat掉数据（不要在这里说破解还是正版，这个情况是都有的，但是破解见到的比较多）
+
+2.损坏exfat分区，或将导致sd卡需要格式化才能使用
+
+## 到底是什么问题？
+
+错误存在于任天堂的exfat驱动程序中。即使在读取时，它也会不断更改文件夹/文件。而且因为它永远不会正确同步，所以在挂起/强制退出/强制重启/关机时，对话丢失并且文件/文件夹从文件分配表中丢失。
+
+## 为什么我要选择fat32？
+
+因为exFAT不像fat32那样有第二个FAT表，所以丢失的些文件/文件夹无法恢复。
+
+### 所以请选择fat32而不是exfat
+
+![丢失数据](https://s1.ax1x.com/2022/11/28/za7Cse.jpg)
