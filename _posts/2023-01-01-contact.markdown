@@ -16,7 +16,7 @@ describe: 捐赠与交流
 
 ## 捐赠（微信）
 
-[捐赠（微信支付）](https://wiiu.1919810.com/acnl-editor/resources/pay.png)
+![捐赠（微信支付）](https://wiiu.1919810.com/acnl-editor/resources/pay.png)
 
 ## 说明
 
