@@ -1,0 +1,85 @@
+---
+layout: post
+title: "疑难解答"
+date: 2023-02-05 16:13:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+describe: 疑难解答
+---
+
+# 疑难解答
+
+<hr />
+
+## 浏览器漏洞常见错误
+
+**DO NOT RUN EXPLOIT TWICE.**：表示TiramisuCFW已经运行，如果想进行安装payloadloader，请重启主机并按照[此教程安装](https://littlefive233.github.io/wiiu/2022/05/27/Hack-Tiramisu.html)
+
+**FSGetMountSource failed**：重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
+
+**FSOpenFile failed […] payload.elf**： SD 卡上缺少 payload 文件。 请确认在 wiiu 文件夹下是否有一个叫做 payload.elf 的文件。
+
+## Haxchi常见错误
+
+**-3**： 未检测到 SD 卡，与上文的 FSGetMountSource failed 错误一样。重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
+
+**-4**： SD 卡已被检测到，但是无法被挂载。 检查 SD 卡是否正在使用 MBR 引导，而非 GPT 引导。 另外，检查 SD 卡上是否有两个以上的分区，如果有请将它们合并为一个。
+
+**-5**： SD 卡上缺少文件。 检查你 SD 卡上的以下路径中是否存在此 Homebrew Launcher 的文件：/wiiu/apps/homebrew_launcher/homebrew_launcher.elf
+
+## Tiramisu常见错误
+
+**报错199-9999**：未检测到 SD 卡，与上文的 FSGetMountSource failed 错误一样。重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
+
+**使用完vWii Decaffeinator，系统无法更新，一直为最新状态**：系统更新是vWii Decaffeinator的必要，因为Autobooting Tiramisu屏蔽了系统更新，你需要[取消Autobooting Tiramisu](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-PayloadLoader.html#%E5%8F%96%E6%B6%88%E8%87%AA%E5%90%AF%E5%8A%A8tiramisu)，然后再次进行系统更新
+
+**开机黑色闪屏**：与上文的报错199-9999一样，未检查到 SD 卡。
+
+**频道版HBL内任意软件卡死**：
+
+> 请注意：如果你需要[自启动中文系统](https://littlefive233.github.io/wiiu/2022/05/28/install-CHJsystem.html)，请勿执行此步骤
+
+如果想删除Mii工作室注入版，请删除SD:/wiiu/environments/tiramisu/modules/setup内的50_hbl_installer
+
+如果想删除频道版，请打开 主机设置-数据管理 选择数据存放位置并进行删除。
+
+## 其他
+
+#### 安装的游戏打开时卡死：
+
+如果是安装在USB存储设备中，可能USB存储设备出问题了，若插拔USB设备后依然有此问题，请换新USB设备
+
+若在主机闪存中，请尝试初始化主机，若问题依然存在，主机闪存寿命可能已经到头了
+
+#### 系统版本显示99.99.99：
+
+这是CBHC的屏蔽更新，只需要[卸载CBHC](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-CBHC.html)即可
+
+#### 初始化后系统重要软件缺失，例如光盘图标等：
+
+**（此教程操作不当会砖机，正常情况下请不要操作！！！）**
+
+可能是因为之前做过RegionHax，导致图标缺失
+
+从Wii U的HBL打开FTP_everywherw，电脑打开任意FTP Client软件，然后进行连接
+
+请打开/vol/slcnand/config/文件夹，并从文件夹中下载sys_prod.xml。
+
+**请仅仅修改指定区域的文本，乱动会引起砖机！请小心再小心**
+
+用文本软件修改第6行game_region type的119为原区域数值，日版为1，美版为2，欧版为4。
+
+![image](https://user-images.githubusercontent.com/68946023/162920585-114d1dc9-91bf-463e-bfc3-a6a23d5f64f1.png)
+
+**请确认已经已经认真细心且除了game_region type的数值其他与原文件一模一样再替换回去！**
+
+重启主机，更新系统（如果不行就初始化系统），查看图标是否已经正常。
+
+#### WUPInstallerGX2出现sigpatch或checkSDFAT32提示：
+
+检查软件安装包是否完整
+
+#### 开机出现黑屏报错160-0103：
+
+系统无法启动默认桌面软件，已经砖机...如果有slc的备份，请尝试使用硬改恢复。如果没有，[请尝试USB漏洞（这需要设备支持）](https://littlefive233.github.io/wiiu/2022/05/28/udpih.html)
