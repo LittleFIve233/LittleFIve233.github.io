@@ -42,4 +42,4 @@ describe: 卸载PayloadLoader
 
 > 现在Tiramisu已被完全卸载，如果还想进行破解请再次使用浏览器漏洞
 >
-> 如需恢复系统更新，[请点击这里继续](https://littlefive233.github.io/wiiu/2022/02/02/uninstall-UDFiine.html)（需要再次使用网页漏洞）
+> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)（需要再次使用网页漏洞）
