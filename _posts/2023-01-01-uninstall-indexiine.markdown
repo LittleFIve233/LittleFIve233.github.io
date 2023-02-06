@@ -14,9 +14,9 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 <hr />
 
-首先你得有方法打开HBL，放好Tiramisu文件了吗？
+首先你得有方法打开HBL请放好Tiramisu文件
 
-执行网页漏洞后看见的Tiramisu菜单里我想就有
+执行网页漏洞后的Tiramisu菜单中选择**Homebrew Launcher**
 
 <hr />
 
@@ -26,6 +26,8 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 2.按下B卸载安装的indexiine
 
+- 如果没有Backup-index.html，[请点击这里下载](#)，并放到SD/wiiu/apps/indexiine-installer/文件夹中
+
 3.退出HBL并检查打开浏览器是否还会自动执行漏洞
 
-> 如需恢复系统更新，[请点击这里继续](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-UDFiine.html)
+> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
