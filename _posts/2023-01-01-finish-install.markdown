@@ -34,4 +34,6 @@ describe: 完成安装
 
 - [Homebrew Appstore可以直接从Wii U浏览和下载自制程序。](https://wiiubru.com/appstore/zips/appstore.zip)
 
+- [WUP installer GX2用于安装软件等](https://github.com/wiiu-controller-mods/wup-installer-gx2/releases/download/v1/wup_installer_gx2.elf)
+
 > [有关Bloopair支持手柄的更多详细信息，请参阅此页面。](https://github.com/GaryOderNichts/Bloopair#supported-controllers)
