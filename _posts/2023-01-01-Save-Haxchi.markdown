@@ -24,7 +24,7 @@ haxchi可以作为自制程序快捷方式存于机器，并与TiramisuCFW共存
 
 ## 开始
 
-0.请先参考 [卸载CBHC教程](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-CBHC.html) 或者 **删除Haxchi** 
+0.请先参考 [卸载CBHC教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html) 或者 **删除Haxchi** 
 
 > 我无法确定你保留了这俩旧破解后还能能不能继续跟着教程往下走，请继续执行第0步
 
@@ -38,4 +38,4 @@ haxchi可以作为自制程序快捷方式存于机器，并与TiramisuCFW共存
 
 > 如果需要更换自制程序快捷方式，只需要再次执行第2、3步即可
 
-## 现在可以继续至 [破解为Autobooting TiramisuCFW](https://littlefive233.github.io/wiiu/2022/05/26/Autobooting-Tiramisu.html) 或者 [完成安装](https://littlefive233.github.io/wiiu/2022/05/27/finish-install.html)
+## 现在可以继续至 [破解为Autobooting TiramisuCFW](https://wiiu.1919810.com/wiiu/2023/02/04/Autobooting-Tiramisu.html) 或者 [完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
