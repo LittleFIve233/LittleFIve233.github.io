@@ -50,4 +50,4 @@ slc.bin、slccmpt.bin、seeprom.bin、otp.bin然后将它们复制到电脑上�
 
 6.从储存卡中删除文件来腾出空间。
 
-## [以上步骤全部完成后点我继续（Tiramisu破解）](https://littlefive233.github.io/wiiu/2022/05/27/Hack-Tiramisu.html)
+## [以上步骤全部完成后点我继续（Tiramisu破解）](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-Tiramisu.html)
