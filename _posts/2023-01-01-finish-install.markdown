@@ -38,4 +38,4 @@ describe: 完成安装
 
 > [有关Bloopair支持手柄的更多详细信息，请参阅此页面。](https://github.com/GaryOderNichts/Bloopair#supported-controllers)
 
-> [关于安装软件的教程，请查阅此教程](#)
+> [关于安装软件的教程，请查阅此教程](https://wiiu.1919810.com/wiiu/2023/02/01/WUPinstaller.html)
