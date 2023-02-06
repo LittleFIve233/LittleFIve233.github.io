@@ -33,7 +33,7 @@ describe: 安装中文系统
 
 > **此功能与Mii工作室冲突！会出现一打开Mii工作室就返回桌面的情况！并且会占用HBL，请再下载一个WUP版的HBL并安装完后再做这个！**
 
-请注意：你不需要做[疑难解答中的选择保留HomeBrewlauncher](https://littlefive233.github.io/wiiu/2022/06/01/QA.html#tiramisu%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF)
+请注意：你不需要做[疑难解答中的选择保留HomeBrewlauncher](https://wiiu.1919810.com/wiiu/2023/02/05/QA.html#tiramisu%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF)
 
 1.将sd:/wiiu/apps/sdcafiine/sdcafiine.elf重命名为Homebrew_launcher.elf
 
