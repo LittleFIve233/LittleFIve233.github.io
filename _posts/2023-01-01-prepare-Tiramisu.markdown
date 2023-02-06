@@ -16,9 +16,9 @@ describe: Tiramisu——准备破解
 
 **请在安装Tiramisu前卸载之前安装的旧破解**
 
-[卸载CBHC](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-CBHC.html)
+[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
 
-[卸载Indexiine](https://littlefive233.github.io/wiiu/2022/05/27/uninstall-indexiine.html)
+[卸载Indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)
 
 卸载Haxchi只需要打开主机设置，选择数据管理进行删除就好了
 
@@ -39,7 +39,7 @@ describe: Tiramisu——准备破解
 - [最新的**01_sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
   - （请下载 01_sigpatches.rpx并放在SD://wiiu/environments/tiramisu/modules/setup）
 
-- [备用链接](https://tiramisu.foryour.cafe/api/download?packages=environmentloader,wiiu-nanddumper-payload,payloadloaderinstaller,tiramisu)
+- 若无法下载请挂梯
 
 **解压文件并放到储存卡根目录，如果需要替换文件请选择替换**
 
@@ -65,4 +65,4 @@ describe: Tiramisu——准备破解
 3.点击 **_5.5.X Exploit!_** ，等待新的页面打开后点击 **_Run Exploit!_** 并按住**B键**，直到见到菜单才可以松开。
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
 
-## [以上步骤全部完成后点我继续（制作NAND备份）](https://littlefive233.github.io/wiiu/2022/05/27/Dump-NAND.html)
+## [以上步骤全部完成后点我继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
