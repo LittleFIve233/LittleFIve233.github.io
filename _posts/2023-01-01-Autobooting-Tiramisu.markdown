@@ -37,4 +37,4 @@ describe: 自启动Tiramisu
 - 当主机启动时按住 X键 即可进入EnvironmentLoader菜单
 - 如果不想加载CFW，开机时按住R即可
 
-## [以上步骤全部完成后点我继续至完成安装](https://littlefive233.github.io/wiiu/2022/05/27/finish-install.html)
+## [以上步骤全部完成后点我继续至完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
