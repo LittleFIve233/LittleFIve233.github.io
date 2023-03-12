@@ -30,6 +30,7 @@ ow3禁用了读取软件列表，所以无法用常用的方法去清除数据
 *adb shell dumpsys window w |findstr \/ |findstr name=*
 
 重点查看后三行：
+
 msurface＝surface(name＝com.heytap.wearable.ota...)
 
 获取到包名后输入adb shell pm clear com.heytap.wearable.ota
