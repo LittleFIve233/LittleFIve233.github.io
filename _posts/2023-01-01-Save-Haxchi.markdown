@@ -10,6 +10,8 @@ describe: Haxchi与Tiramisu共存
 
 # Haxchi与Tiramisu共存
 
+## 注意：从2023年3月28日eshop关闭后，脑锻炼将无法购买，同时，本教程也将不受支持！
+
 ## 前言（仅限拥有DS正版游戏的用户！）
 
 haxchi可以作为自制程序快捷方式存于机器，并与TiramisuCFW共存
