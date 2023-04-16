@@ -40,6 +40,6 @@ describe: 破解主机为TiramisuCFW
 
 重启机器，如果看见红屏警告说系统更新已被屏蔽，请按下B键永不显示
 
-#### 恭喜，你的主机已经破解为TiramisuCFW了，如果你不想在开机自启动的话，可以跳过下一步骤直接到[完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)了，如果你想保留Haxchi，请看[Haxchi与Tiramisu共存](https://wiiu.1919810.com/wiiu/2022/10/28/Save-Haxchi.html)
+#### 恭喜，你的主机已经破解为TiramisuCFW了，如果你不想让CFW开机自启，可以跳过下一步骤直接[完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
 
 ## [以上步骤全部完成后点我继续（安装Autobooting Tiramisu）](https://wiiu.1919810.com/wiiu/2023/02/04/Autobooting-Tiramisu.html)
