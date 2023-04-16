@@ -24,6 +24,8 @@ describe: Tiramisu——准备破解
 
 - **但是请不要这样卸载CBHC**，如果你~~脑抽~~这样删除了CBHC，你的机器只能通过之前的备份恢复（需要焊接技能），或者使用USB漏洞（需要支持设备）。
 
+-如果你想保留Haxchi，请看[Haxchi与Tiramisu共存](https://wiiu.1919810.com/wiiu/2022/10/28/Save-Haxchi.html)
+
 如果你一直使用网页破解，也就是在线漏洞（**不是打开浏览器自动破解的indexiine！**），那可以继续此教程
 
 ## 准备SD卡
