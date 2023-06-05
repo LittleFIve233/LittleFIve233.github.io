@@ -1,0 +1,131 @@
+---
+layout: post
+title: "破解vWii"
+date: 2023-02-04 10:40:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+describe: 破解主机为TiramisuCFW
+---
+
+## 破解vWii
+
+如果你以前破解过vWii，你可以使用该储存卡继续破解而不需要格式化
+
+### 准备
+
+- WiiU破解正常运作
+
+- [最新的Tiramisu（如果你是跟着本教程全新或者重新安装破解，将不需要下载）](https://tiramisu.foryour.cafe/)
+
+- [最新的vwii-compat-installer](https://github.com/mkwcat/vwii-compat-installer/releases)
+
+- [Patched IOS 80 Installer for vWii](https://wiiu.hacks.guide/docs/files/Patched_IOS80_Installer_for_vWii.zip)
+
+- [d2x cIOS Installer](https://wiiu.hacks.guide/docs/files/d2x_cIOS_Installer.zip)
+
+**请务必下载好文件，不然没法保证破解正常完成**
+
+## 开始
+
+0.**请先预备好Tiramisu破解环境**
+
+1.将WiiU储存卡插入到电脑
+
+2.复制Patched_IOS80_Installer_for_vWii.zip中的apps文件夹到你WiiU的储存卡根目录
+
+3.解压d2x_cIOS_Installer.zip把目录放到储存卡根目录的apps文件夹中
+
+4.复制下载的compat_installer.elf到wiiu/apps/compat_installer/文件夹中（如果没有则创建）
+
+现在将储存卡弹出插回WiiU
+
+### 备份nand
+
+若先前跟着教程走过，请检查slccmpt.bin是否有备份，如果没有请把nanddumper调为此状态重新dump：
+
+Dump SLC: 可选
+
+Dump SLCCMPT: yes
+
+Dump MLC: 可选
+
+Dump OTP: yes
+
+Dump SEEPROM: yes
+
+### 安装the Homebrew Channel
+
+1.确保WiiU正在使用的破解是Tiramisu
+
+2.从mii工作室启动HBL
+
+3.选择compat_installer然后选load
+
+4.按下A键安装the Homebrew Channel，当出现Install succeeded后按Home键退出然后回到WiiU主菜单
+
+5.现在启动vWii，并进入the Homebrew Channel
+
+### 安装cIOS
+
+**请保证你储存卡的apps文件夹里没有*任何*的.wad文件**
+
+1.打开d2x cIOS Installer
+
+**确保下面的步骤不要做错！！**
+
+2.第一次设定选项：
+
+- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+
+- Select cIOS base: 56
+
+- Select cIOS slot: 249
+
+按下A键进行安装
+
+3.第二次设定选项：
+
+- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+
+- Select cIOS base: 57
+
+- Select cIOS slot: 250
+
+按下A键进行安装
+
+4.第三次设定选项：
+
+- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+
+- Select cIOS base: 58
+
+- Select cIOS slot: 251
+
+按下A键进行安装
+
+5.完成安装后按B退出
+
+### 为IOS80打补丁
+
+**注意：如果因为任何原因你的WiiU在给IOS80打补丁的时候关机，这都将损坏你的vWii！如果你不小心损坏了vWii，[请参考此教程恢复](#)**
+
+1.在the Homebrew Channel中选择Patched IOS 80 Installer并load
+
+2.阅读警告信息并等待30秒
+
+3.按下任意键进行安装
+
+4.等一会，直到它提示IOS80 Installation is complete!
+
+5.退出软件，vWii破解大功告成
+
+## 拓展与注意事项
+
+想要在vWii上玩游戏，请使用[WiiFlow](https://wii.guide/zh_CN/wiiflow)或者[USB Loader GX](https://wii.guide/zh_CN/usbloadergx)自制程序详情
+
+Priiloader无法用于vWii
+
+请不要安装来历不明的wad文件，这可能会要了你vWii的命
+
+不要安装来历不明的vWii Menu
