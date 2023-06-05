@@ -24,9 +24,13 @@ describe: 完成安装
 
 ## 额外
 
+### [破解vWii](#)
+
+破解vWii以游玩wii游戏和游玩ngc游戏
+
 ### 中文系统
 
-关于安装Wii U中文系统，可以看[这里](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)，中文系统可能仍有很多不足，希望大家谅解
+关于安装Wii U中文系统，可以看[这里](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)，中文系统可能仍有很多不足，反馈请加入群聊
 
 ### 自制程序
 
