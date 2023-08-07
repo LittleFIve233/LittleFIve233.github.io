@@ -25,8 +25,8 @@ Aroma是于2022年9月推出的自制环境，它集合了tiramisu的方便性�
 ### Aroma准备
 
 - [在这里下载**Aroma**](Aroma.foryour.cafe)
- - 把四个警示都打钩后，可以选择主要内容下载，请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
- - 把wiiu文件夹依次放入wiiuSD卡中的根目录
+  - 把四个警示都打钩后，可以选择主要内容下载，请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
+  - 把wiiu文件夹依次放入wiiuSD卡中的根目录
 
 - [最新的**sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
   - （请下载 01_sigpatches.rpx并放在SD://wiiu/environments/Aroma/modules/setup）
