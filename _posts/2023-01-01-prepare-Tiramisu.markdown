@@ -57,7 +57,7 @@ describe: Tiramisu——准备破解
 
 1.把SD卡从电脑中弹出并插入Wii U主机。
 
-2.打开Wii U的网络浏览器，然后访问 [wiiuexploit.xyz](https://wiiuexploit.xyz) 网站。
+2.打开Wii U的网络浏览器，然后访问 [u.wiidb.de](https://u.wiidb.de) 网站。
 - 备用网站：
 
   - [littlefive233.github.io/LoveU/](https://littlefive233.github.io/LoveU/)
