@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Aroma安装教程"
+date: 2023-02-05 10:40:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+describe: 破解主机为TiramisuCFW
+---
+
+## Aroma安装教程
+
+[请至少破解为tiramisu后再做此教程！](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-Tiramisu.html)
+
+<hr />
+
+### Aroma简介
+
+Aroma是于2022年9月推出的自制环境，它集合了tiramisu的方便性，同时有更多插件增强体验
+
+可以在完成tiramisu的完整破解后，继续选择安装Aroma，方便在两个自制环境切换
+
+### 请注意，Aroma没有HBL没有elf自制程序，大部分老旧的自制程序无法兼容Aroma，但是新自制程序已经兼容完成Aroma
+
+### Aroma准备
+
+- [在这里下载**Aroma**](Aroma.foryour.cafe)
+ - 把四个警示都打钩后，可以选择主要内容下载，请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
+ - 把wiiu文件夹依次放入wiiuSD卡中的根目录
+
+- [最新的**sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
+  - （请下载 01_sigpatches.rpx并放在SD://wiiu/environments/Aroma/modules/setup）
+
+### 切换至Aroma
+
+**如果你是自启动tiramisu则需要在开机按住X**
+
+**如果你是用安全使用须知启动tiramisu则需要打开安全使用须知时按住X**
+
+1.在environmentloader中选择Aroma（可以按Y键选择作为自启动）按下A进入Aroma
+
+2.在Aroma自制环境的桌面中同时按下 L 下 减号 打开Aroma的菜单
+
+3.打开Homebrew_on_menu对其进行调整可以隐藏rpx自制程序
+
+4.完成Aroma，现在可以再次调整为tiramisu或者留在Aroma
+
+- 安装自制程序可以放入wiiu/apps/中
+
+- 如果要使用sdcafiine可以把根目录的sdcafiine放入wiiu文件夹中
+
+### 值得注意的是，Aroma扔在beta，仍不稳定
