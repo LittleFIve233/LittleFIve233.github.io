@@ -40,6 +40,6 @@ describe: 破解主机为TiramisuCFW
 
 7.机器重启后，找安全使用须知（黄色感叹号），并打开它，此时在menu中对着tiramisu按下Y键，再按A键进入，到了tiramisu的引导界面后对着WiiU MENU按下Y键，再按A键进入
 
-#### 恭喜，你的主机已经破解为TiramisuCFW了，如果你不想让CFW开机自启，可以跳过下一步骤直接[完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
-
 ## [以上步骤全部完成后点我继续（安装Autobooting Tiramisu）](https://wiiu.1919810.com/wiiu/2023/02/04/Autobooting-Tiramisu.html)
+
+## 如果你不想让CFW开机自启，可以跳过下一步骤直接[完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
