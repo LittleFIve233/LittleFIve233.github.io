@@ -76,7 +76,7 @@ Dump SEEPROM: yes
 
 2.第一次设定选项：
 
-- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+- Select cIOS: d2x-v11-beta1-vWii
 
 - Select cIOS base: 56
 
@@ -86,7 +86,7 @@ Dump SEEPROM: yes
 
 3.第二次设定选项：
 
-- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+- Select cIOS: d2x-v11-beta1-vWii
 
 - Select cIOS base: 57
 
@@ -96,7 +96,7 @@ Dump SEEPROM: yes
 
 4.第三次设定选项：
 
-- Select cIOS: v10 beta52 d2x-v10-beta52-vWii
+- Select cIOS: d2x-v11-beta1-vWii
 
 - Select cIOS base: 58
 
