@@ -18,17 +18,15 @@ describe: 自启动Tiramisu
 
 2.按住X键并点击安全使用须知，你将进入EnvironmentLoader菜单
 
-3.使用十字键将光标移动到Tiramisu并按下Y设为自启动项
+3.使用十字键将光标移动到installer并按A进入。
 
-4.使用十字键将光标移动到installer并按A进入。
+4.选择Check并按下A键，它将会再次检查
 
-5.选择Check并按下A键，它将会再次检查
+5.选择Boot options，它将会问你是否切换默认启动项，选择Switch to PayloadLoader即可。
 
-6.选择Boot options，它将会问你是否切换默认启动项，选择Switch to PayloadLoader即可。
+6.当进程结束，按下 A键 关闭主机
 
-7.当进程结束，按下 A键 关闭主机
-
-8.重启主机，可能会进入Tiramisu菜单，对准 Wii U Menu 按下 Y键 设为自启动项目后按A键进入。
+7.重启主机，可能会进入Tiramisu菜单，对准 Wii U Menu 按下 Y键 设为自启动项目后按A键进入。
 
 重启机器，如果看见红屏警告说系统更新已被屏蔽，请按下B键永不显示
 
