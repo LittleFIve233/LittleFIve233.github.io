@@ -24,6 +24,10 @@ describe: 完成安装
 
 ## 额外
 
+### [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)
+
+更强大的自制环境
+
 ### [破解vWii](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)
 
 破解vWii以游玩wii游戏和游玩ngc游戏
