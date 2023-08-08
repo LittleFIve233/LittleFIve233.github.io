@@ -64,7 +64,7 @@ describe: Tiramisu——准备破解
 
   - [u.wiidb.de](u.wiidb.de)
 
-3.点击 **_5.5.X Exploit!_** ，等待新的页面打开后点击 **_Run Exploit!_** 并按住**B键**，直到见到菜单才可以松开。
+3.点击 **HAXX** ，等待新的页面打开后看到右下角wiiulogo时按住**B键**，直到见到菜单才可以松开。
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
 
 ## [以上步骤全部完成后点我继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
