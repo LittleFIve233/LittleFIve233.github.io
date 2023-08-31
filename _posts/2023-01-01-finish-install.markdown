@@ -26,19 +26,19 @@ describe: 完成安装
 
 ### [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)
 
-更强大的自制环境
+更强大的自制环境，包含插件加载，自启动中文系统推荐aroma
 
 ### [破解vWii](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)
 
 破解vWii以游玩wii游戏和游玩ngc游戏
 
-### 中文系统
+### [中文系统](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
 
-关于安装Wii U中文系统，可以看[这里](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)，中文系统可能仍有很多不足，反馈请加入群聊
+安装Wii U中文系统，中文系统可能仍有很多不足，反馈请加入群聊
 
 ### 自制程序
 
-- [Bloopair是一个提拉米苏模块，可以使用蓝牙连接常见的无线控制器。](https://github.com/GaryOderNichts/Bloopair/releases/download/v0.5.2/Bloopair_v0.5.2.zip)
+- [Bloopair是一个提拉米苏模块，可以使用蓝牙连接常见的无线控制器。](https://github.com/GaryOderNichts/Bloopair/releases)
 
 - [Homebrew Appstore可以直接从Wii U浏览和下载自制程序。](https://wiiubru.com/appstore/zips/appstore.zip)
 
