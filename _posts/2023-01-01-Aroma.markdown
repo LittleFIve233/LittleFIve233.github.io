@@ -49,4 +49,4 @@ Aroma是于2022年9月推出的自制环境，它集合了tiramisu的方便性�
 
 - 如果要使用sdcafiine可以把根目录的sdcafiine放入wiiu文件夹中
 
-### 值得注意的是，Aroma扔在beta，仍不稳定
+### 需要注意的是，Aroma仍在beta，不稳定
