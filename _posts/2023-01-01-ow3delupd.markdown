@@ -28,7 +28,7 @@ ow3禁用了读取软件列表，所以无法用常用的方法去清除数据
 
 打开手表更新界面，输入以下命令：
 
-*adb shell dumpsys window w |findstr \/ |findstr name=*
+`adb shell dumpsys window w |findstr \/ |findstr name=`
 
 重点查看后三行：
 
