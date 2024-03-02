@@ -36,8 +36,6 @@ describe: Tiramisu——准备破解
 
 - [64G储存卡可能需要其他工具进行格式化为FAT32](https://zhidao.baidu.com/question/313838908478081124/answer/4207170040.html)
 
-<hr />
-
 #### 从这里下载你需要的文件：
 
 - 外网直链：[tiramisu.foryour.cafe](https://tiramisu.foryour.cafe/)
@@ -70,7 +68,7 @@ describe: Tiramisu——准备破解
 
 3.点击 **HAXX** ，等待新的页面打开后看到右下角wiiulogo时按住**B键**，直到见到菜单才可以松开。
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
-- 
+
 <hr />
 
 ## [以上步骤全部完成后点我继续（制作NAND备份）](https://littleFIve233.GitHub.io/wiiu/2022/02/04/Dump-NAND.html)
