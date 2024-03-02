@@ -4,7 +4,7 @@ title: "阻止系统更新"
 date: 2022-02-02 09:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 阻止系统更新
 ---
 
@@ -16,11 +16,13 @@ describe: 阻止系统更新
 
 **版本5.5.3，5.5.4，5.5.5，5.5.6都是在Wii U停产后发布的，也就是说，因此阻止更新仍然是建议的操作。**
 
+<hr />
+
 ## 开始
 
 目前有三种方法可以阻止系统更新
 
-### 方法1：[自启动Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/04/Autobooting-Tiramisu.html)
+### 方法1：[自启动Tiramisu](https://littleFIve233.GitHub.io/wiiu/2023/02/04/Autobooting-Tiramisu.html)
 
 ### 方法2：干掉系统更新文件夹
 

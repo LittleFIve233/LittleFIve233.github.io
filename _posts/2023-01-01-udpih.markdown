@@ -4,7 +4,7 @@ title: "USB漏洞救砖（udpih）"
 date: 2023-02-02 05:09:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: USB漏洞救砖
 ---
 
@@ -13,6 +13,8 @@ describe: USB漏洞救砖
 udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内核。
 
 **（本漏洞可救cbhc砖机，字库砖机，mlc文件错删）**
+
+<hr />
 
 ## 需要什么？
 
@@ -28,7 +30,7 @@ udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内�
 
 - 注意在教程开始前请断开WiiU主机的所有USB设备，且正前方的两个USB端口必须能用！
 
-_________________
+<hr />
 
 # 准备
 
@@ -58,6 +60,8 @@ _________________
 
 - 你用不着全做……做一个设备来用就行
 
+<hr />
+
 ## 开始
 
 1.插入储存卡，准备好插入树莓派PICO（或zero?），注意是wiiu前面的USB口
@@ -70,9 +74,13 @@ _________________
 
 稍后，你将会进入recovery_menu
 
+<hr />
+
 ## 救砖
 
 **主机上的eject选择，power确定！**
+
+<hr />
 
 ### cbhc砖机
 
@@ -113,5 +121,7 @@ cbhc是因为系统无法加载默认桌面导致的
 5.在recovery_menu选择``Start wupserver``
 
 6.运行脚本或者wupcilent
+
+<hr />
 
 ### 请注意：由于wiiu拥有文件缓存机制，修改完后需要选择``back``，然后再选``shutdown``关机，才能保证文件修改成功

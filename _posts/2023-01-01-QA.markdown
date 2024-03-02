@@ -4,7 +4,7 @@ title: "疑难解答"
 date: 2023-02-05 16:13:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 疑难解答
 ---
 
@@ -14,7 +14,7 @@ describe: 疑难解答
 
 ## 浏览器漏洞常见错误
 
-**DO NOT RUN EXPLOIT TWICE.**：表示TiramisuCFW已经运行，如果想进行安装payloadloader，请重启主机并按照[此教程安装](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-Tiramisu.html)
+**DO NOT RUN EXPLOIT TWICE.**：表示TiramisuCFW已经运行，如果想进行安装payloadloader，请重启主机并按照[此教程安装](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Hack-Tiramisu.html)
 
 **FSGetMountSource failed**：重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
 
@@ -32,13 +32,13 @@ describe: 疑难解答
 
 **报错199-9999**：未检测到 SD 卡，与上文的 FSGetMountSource failed 错误一样。重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
 
-**使用完vWii Decaffeinator，系统无法更新，一直为最新状态**：系统更新是vWii Decaffeinator的必要，因为Autobooting Tiramisu屏蔽了系统更新，你需要[取消Autobooting Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html#%E5%8F%96%E6%B6%88%E8%87%AA%E5%90%AF%E5%8A%A8tiramisu)，然后再次进行系统更新
+**使用完vWii Decaffeinator，系统无法更新，一直为最新状态**：系统更新是vWii Decaffeinator的必要，因为Autobooting Tiramisu屏蔽了系统更新，你需要[取消Autobooting Tiramisu](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-PayloadLoader.html#%E5%8F%96%E6%B6%88%E8%87%AA%E5%90%AF%E5%8A%A8tiramisu)，然后再次进行系统更新
 
 **开机黑色闪屏**：与上文的报错199-9999一样，未检查到SD卡。
 
 **频道版HBL内任意软件卡死**：
 
-> 请注意：如果你需要[自启动中文系统](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html#%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BD)，请勿执行此步骤
+> 请注意：如果你需要[自启动中文系统](https://littleFIve233.GitHub.io/wiiu/2023/02/04/install-CHJsystem.html#%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BD)，请勿执行此步骤
 
 如果想删除Mii工作室注入版，请删除SD:/wiiu/environments/tiramisu/modules/setup内的50_hbl_installer
 
@@ -54,7 +54,7 @@ describe: 疑难解答
 
 #### 系统版本显示99.99.99：
 
-这是CBHC的屏蔽更新，只需要[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)即可
+这是CBHC的屏蔽更新，只需要[卸载CBHC](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-CBHC.html)即可
 
 #### 初始化后系统重要软件缺失，例如光盘图标等：
 
@@ -82,4 +82,4 @@ describe: 疑难解答
 
 #### 开机出现黑屏报错160-0103：
 
-系统无法启动默认桌面程序，已经砖机...[请尝试USB漏洞（这需要设备支持）](https://wiiu.1919810.com/wiiu/2023/02/01/udpih.html)或如果有slc的备份，请尝试使用硬改恢复。
+系统无法启动默认桌面程序，已经砖机...[请尝试USB漏洞（这需要设备支持）](https://littleFIve233.GitHub.io/wiiu/2023/02/01/udpih.html)或如果有slc的备份，请尝试使用硬改恢复。

@@ -4,11 +4,13 @@ title: "Wup instaler GX2安装软件"
 date: 2023-02-02 05:09:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: Wup instaler GX2安装软件
 ---
 
 # Wup installer GX2安装软件教程
+
+<hr />
 
 ## 需要什么？
 
@@ -24,6 +26,8 @@ describe: Wup instaler GX2安装软件
 
 - 请放入SD/wiiu/apps/wup_installer_gx2/文件夹中（如果没有文件夹就创建）
 
+<hr />
+
 ### 安装
 
 1.在HBL中打开Wup installer GX2
@@ -33,6 +37,8 @@ describe: Wup instaler GX2安装软件
 3.选择安装位置，NAND为机身存储（8/32），USB为外置设备。
 
 4.等待跑条完毕
+
+<hr />
 
 ## 往HBL添加自制程序
 

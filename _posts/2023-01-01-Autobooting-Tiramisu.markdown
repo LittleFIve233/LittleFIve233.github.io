@@ -4,13 +4,15 @@ title: "自启动Tiramisu"
 date: 2023-02-04 21:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 自启动Tiramisu
 ---
 
 ## 自启动TiramisuCFW
 
 现在你的主机已经安装了PayloadLoader、Environment Loader和TiramisuCFW
+
+<hr />
 
 **现在你的主机可以通过安全使用须知软件启用TiramisuCFW了，下面的步骤将教你升级为自启动Tiramisu**
 
@@ -31,9 +33,13 @@ describe: 自启动Tiramisu
 
 重启机器，如果看见红屏警告说系统更新已被屏蔽，请按下B键永不显示
 
+<hr />
+
 ### 恭喜，你已经完成了自启动Tiramisu。
 - 当主机启动时按住 Start键(+) 即可进入Tiramisu菜单
 - 当主机启动时按住 X键 即可进入EnvironmentLoader菜单
 - 如果不想加载CFW，开机时按住R即可
 
-## [以上步骤全部完成后点我继续至完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
+<hr />
+
+## [以上步骤全部完成后点我继续至完成安装](https://littleFIve233.GitHub.io/wiiu/2023/02/05/finish-install.html)

@@ -4,7 +4,7 @@ title: "卸载CBHC"
 date: 2023-02-02 01:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 卸载CBHC
 ---
 
@@ -17,6 +17,8 @@ describe: 卸载CBHC
 首先你得有方法打开HBL
 
 [最新版CBHC](https://wiiubru.com/appstore/zips/cbhc.zip)
+
+<hr />
 
 ## 开始
 

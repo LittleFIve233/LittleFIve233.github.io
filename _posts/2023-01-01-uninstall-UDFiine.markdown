@@ -4,15 +4,19 @@ title: "UDFiine解除阻止系统更新"
 date: 2023-02-02 07:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: UDFiine解除阻止系统更新
 ---
 
 # 解除阻止系统更新
 
+<hr />
+
 ## 开始
 
-如果你需要进行系统更新，则你就需要做这个教程。
+如果你需要进行系统更新，需要做这个教程！
+
+<hr />
 
 ### 方法1：恢复系统更新文件夹
 

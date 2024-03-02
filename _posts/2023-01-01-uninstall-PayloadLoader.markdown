@@ -4,13 +4,15 @@ title: "卸载PayloadLoader"
 date: 2023-02-02 07:41:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 卸载PayloadLoader
 ---
 
 ## 前言
 
 如果你想卸载Tiramisu，还有下面几步要走，请注意：**初始化主机不能卸载PayloadLoader**
+
+<hr />
 
 ## 取消自启动Tiramisu
 
@@ -28,6 +30,8 @@ describe: 卸载PayloadLoader
 
 - 现在系统更新将不再被屏蔽
 
+<hr />
+
 ## 卸载PayloadLoader
 
 1.打开安全健康须知软件，同时在GamePad上按住X
@@ -42,4 +46,4 @@ describe: 卸载PayloadLoader
 
 > 现在Tiramisu已被完全卸载，如果还想进行破解请再次使用浏览器漏洞
 >
-> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)（需要再次使用网页漏洞）
+> 如需恢复系统更新，[请点击这里继续](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-UDFiine.html)（需要再次使用网页漏洞）

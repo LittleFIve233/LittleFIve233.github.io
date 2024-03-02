@@ -4,14 +4,15 @@ title: "检查Wii U破解"
 date: 2023-02-04 16:00:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 检查破解
 ---
-
 
 ## 前言
 
 该教程将检查你主机所安装的CFW
+
+<hr />
 
 ## Haxchi&CBHC
 
@@ -25,6 +26,8 @@ CBHC的辨识很简单，在开机时会有Autobooting的黑屏画面，这就�
 
 Haxchi的辨识可以去看桌面，一般的Haxchi就是一个写着Haxchi的软件，不过，商家一般会把它的启动图标和启动画面改了，一般叫“一键破解”，这个就是haxchi
 
+<hr />
+
 ## Mocha&Indexiine
 
 ### 简介
@@ -37,7 +40,9 @@ Mocha的辨识比上面说的CBHC更简单了，你可以打开在启动网页�
 
 Indexiine同样很简单，在打开浏览器后（需要在首页而不是其他页面）等上几秒，看下是不是自动跳转到HBL或是其他的自制程序里，是就代表你安装了Indexiine
 
-## Tiramisu
+<hr />
+
+## Tiramisu&Aroma
 
 ### 简介
 

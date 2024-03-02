@@ -4,7 +4,7 @@ title: "卸载indexiine"
 date: 2023-02-02 02:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
-img: https://s1.ax1x.com/2022/11/26/zN87dO.jpg
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 卸载indexiine
 ---
 
@@ -14,11 +14,15 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 <hr />
 
-首先你得有方法打开HBL请放好Tiramisu文件
+### 准备
 
-执行网页漏洞后的Tiramisu菜单中选择**Homebrew Launcher**
+请放好Tiramisu文件后打开HBL
 
 <hr />
+
+### 开始
+
+执行网页漏洞后的Tiramisu菜单中选择**Homebrew Launcher**
 
 > 打开HBL后，你可以往后翻一翻有没有一个叫 indexiine-installer的自制程序，如果没有，可以从 [这里](https://github.com/GaryOderNichts/indexiine-installer/releases/download/v2/indexiine-installer.zip) 下载，可能需要挂梯，下载完把**wiiu**文件夹放入SD卡根目录就可以继续下面的步骤了
 
@@ -30,4 +34,4 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 3.退出HBL并检查打开浏览器是否还会自动执行漏洞
 
-> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
+> 如需恢复系统更新，[请点击这里继续](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-UDFiine.html)

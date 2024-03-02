@@ -5,18 +5,22 @@ date: 2023-02-05 13:00:00 +0800
 categories: Other
 tags: Other
 author: LittleFIve
-img: https://s1.ax1x.com/2023/02/20/pSXlrkj.jpg
+img: https://littleFIve233.GitHub.io/acnl-editor/resources/qrcode_1709359644363.jpg
 describe: 捐赠与交流
 ---
 
 ## 加入QQ群聊，与我们交流
-[![QQ群](https://s1.ax1x.com/2023/02/20/pSXlrkj.jpg)](https://jq.qq.com/?_wv=1027&k=ffityEKG)
+[![QQ群](https://littleFIve233.GitHub.io/acnl-editor/resources/qrcode_1709359644363.jpg)](https://jq.qq.com/?_wv=1027&k=ffityEKG)
 
 [点击这里直接跳转QQ加群](https://jq.qq.com/?_wv=1027&k=ffityEKG)
 
+<hr />
+
 ## 捐赠（微信）
 
-![捐赠（微信支付）](https://wiiu.1919810.com/acnl-editor/resources/pay.png)
+![捐赠（微信支付）](https://littleFIve233.GitHub.io/acnl-editor/resources/pay.png)
+
+<hr />
 
 ## 说明
 
