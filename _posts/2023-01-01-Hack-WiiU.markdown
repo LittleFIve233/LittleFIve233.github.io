@@ -43,13 +43,13 @@ describe: 一切从这里开始
 
 * **目前最推荐的CFW仍是Tiramisu，它不需要花费任何费用并且可以在开机时自动启动**
 
-* Aroma：可选，最大的问题是可能会有不稳定性
+* Tiramisu：它不需要花费任何费用，它是一个免费的CBHC，但它比CBHC更加先进
+
+* Aroma：可选，最大的问题是可能会不稳定
 
 * Haxchi与CBHC：需要购买DS游戏，做完CBHC后可以进行开机自动启动
 
-* Mocha：它不需要花费任何费用，不过需要每次开机都进浏览器执行漏洞
-
-* Tiramisu：它不需要花费任何费用，它是一个免费的CBHC，但它比CBHC更加先进
+* Mocha与indexiine：它们不需要花费任何费用，不过需要每次开机都进浏览器执行漏洞
 
 * 注：Mocha和Haxchi已为过时方法
 
@@ -72,7 +72,7 @@ describe: 一切从这里开始
 | 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
 | ----------------------- | ------------ | ------------------------ |
 | Tiramisu            | [开始Tiramisu](https://littleFIve233.GitHub.io/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新版本破解 |
-| Aroma            | [安装Aroma](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Aroma.html)     | 请更新到最新版本破解 |
+| Aroma(需要已装Tiramisu)            | [安装Aroma](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Aroma.html)     | 请更新到最新版本破解 |
 
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
