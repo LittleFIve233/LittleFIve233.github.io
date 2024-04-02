@@ -19,13 +19,13 @@ describe: 破解主机为TiramisuCFW
 那么我们就开始安装PayloadLoader吧。
 - 安装PayloadLoader将可以运行安全使用须知软件来访问Tiramisu。
 
-**_请注意：初始化主机不会卸载注入的PayloadLoader。如果需要卸载，请按照[卸载PayloadLoader](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-PayloadLoader.html)删除PayloadLoader。_**
+**_请注意：初始化主机不会卸载注入的PayloadLoader。如果需要卸载，请按照[卸载PayloadLoader](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html)删除PayloadLoader。_**
 
 **如果你已经启动Tiramisu，请重新启动主机，然后再执行浏览器漏洞。**
 
 1.将内存卡从电脑上拔出并插回Wii U主机。
 
-2.执行之前的[浏览器漏洞](https://littleFIve233.GitHub.io/wiiu/2023/02/05/prepare-Tiramisu.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%BC%8F%E6%B4%9E)。
+2.执行之前的[浏览器漏洞](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%BC%8F%E6%B4%9E)。
 
 - **注意：在这次漏洞执行的时候，你得按住X键来进入EnvironmentLoader菜单**，如果没按住或者没进入，请重启主机并再试一次。
 
@@ -42,6 +42,6 @@ describe: 破解主机为TiramisuCFW
 
 <hr />
 
-## [以上步骤全部完成后点我继续（安装Autobooting Tiramisu）](https://littleFIve233.GitHub.io/wiiu/2023/02/04/Autobooting-Tiramisu.html)
+## [以上步骤全部完成后点我继续（安装Autobooting Tiramisu）](https://wiiu.1919810.com/wiiu/2023/02/04/Autobooting-Tiramisu.html)
 
-## 如果你不想让CFW开机自启，可以直接进行[完成安装](https://littleFIve233.GitHub.io/wiiu/2023/02/05/finish-install.html)
+## 如果你不想让CFW开机自启，可以直接进行[完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)

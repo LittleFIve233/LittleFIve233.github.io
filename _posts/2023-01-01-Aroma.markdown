@@ -10,15 +10,15 @@ describe: 破解主机为TiramisuCFW
 
 ## Aroma安装教程
 
-[请至少破解为tiramisu后再做此教程！](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Hack-Tiramisu.html)
+[请至少破解为tiramisu后再进行此教程！](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-Tiramisu.html)
 
 <hr />
 
 ### Aroma简介
 
-Aroma是于2022年9月推出的自制环境，它集合了tiramisu的方便性，同时有更多插件增强体验
+Aroma是于2022年9月推出的自制环境，它结合了tiramisu的方便性，同时有多样性的插件增强体验
 
-可以在完成tiramisu的完整破解后，继续选择安装Aroma，方便在两个自制环境切换
+可以在完成完整的tiramisu破解后，选择继续安装Aroma，方便在两个自制环境切换
 
 ### 请注意，Aroma没有HBL没有elf自制程序，大部分老旧的自制程序无法兼容Aroma，但是新自制程序已经兼容完成Aroma
 
@@ -28,7 +28,7 @@ Aroma是于2022年9月推出的自制环境，它集合了tiramisu的方便性�
 
 - [在这里下载**Aroma**](https://Aroma.foryour.cafe)
   - 把四个警示都打钩后，可以选择主要内容下载，请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
-  - 把wiiu文件夹依次放入wiiuSD卡中的根目录
+  - 把wiiu文件夹依次放入wiiu SD卡中的根目录
 
 - [最新的**sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
   - （请下载 01_sigpatches.rpx并放在SD://wiiu/environments/Aroma/modules/setup）

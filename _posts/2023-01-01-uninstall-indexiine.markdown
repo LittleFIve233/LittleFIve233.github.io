@@ -34,4 +34,4 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 3.退出HBL并检查打开浏览器是否还会自动执行漏洞
 
-> 如需恢复系统更新，[请点击这里继续](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-UDFiine.html)
+> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)

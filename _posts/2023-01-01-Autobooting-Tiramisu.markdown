@@ -42,4 +42,4 @@ describe: 自启动Tiramisu
 
 <hr />
 
-## [以上步骤全部完成后点我继续至完成安装](https://littleFIve233.GitHub.io/wiiu/2023/02/05/finish-install.html)
+## [以上步骤全部完成后点我继续至完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)

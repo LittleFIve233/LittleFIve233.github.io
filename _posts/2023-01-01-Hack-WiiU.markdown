@@ -14,7 +14,7 @@ describe: 一切从这里开始
 
 首先，在破解时，请保持冷静，请不要觉得稍微操作一下Wii U主机就暴毙。
 
-如果你还是分不清Wii U从过去到现在的破解，建议先阅读[这个……](https://littleFIve233.GitHub.io/wiiu/2023/02/05/hacksWord.html)
+如果你还是分不清Wii U从过去到现在的破解，建议先阅读[这个……](https://wiiu.1919810.com/wiiu/2023/02/05/hacksWord.html)
 
 **本教程不是做虚拟系统！而是让机器运行自制固件！**
 
@@ -57,11 +57,11 @@ describe: 一切从这里开始
 
 ## 之前破解过
 
-你可以通过[检查破解](https://littleFIve233.GitHub.io/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，或者直接[转为Tiramisu CFW](https://littleFIve233.GitHub.io/wiiu/2023/02/05/prepare-Tiramisu.html)来更加地方便地使用Wii U；如果需要中文系统，可以看[这里](https://littleFIve233.GitHub.io/wiiu/2023/02/04/install-CHJsystem.html)
+你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，或者直接[转为Tiramisu CFW](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)来更加地方便地使用Wii U；如果需要中文系统，可以看[这里](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
 
 **请不要直接初始化主机和格式化储存卡！**
 
-[**主机出现问题了？可以查看此页尝试解决你的问题**](https://littleFIve233.GitHub.io/wiiu/2023/02/05/QA.html)
+[**主机出现问题了？可以查看此页尝试解决你的问题**](https://wiiu.1919810.com/wiiu/2023/02/05/QA.html)
 
 <hr />
 
@@ -71,16 +71,16 @@ describe: 一切从这里开始
 
 | 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
 | ----------------------- | ------------ | ------------------------ |
-| Tiramisu            | [开始Tiramisu](https://littleFIve233.GitHub.io/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新版本破解 |
-| Aroma(需要已装Tiramisu)            | [安装Aroma](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Aroma.html)     | 请更新到最新版本破解 |
+| Tiramisu            | [开始Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新版本破解 |
+| Aroma(需要已装Tiramisu)            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新版本破解 |
 
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
-- 如果你之前屏蔽了系统更新，请按照[此教程](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
-- 如果系统版本显示99.99.99，需要[卸载CBHC](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-CBHC.html)
+- 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
+- 如果系统版本显示99.99.99，需要[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
 
 | 卸载过时的破解 | CFW |
 | ----------------------- | ------------ |
-| 卸载CBHC | [CBHC](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-CBHC.html)     |
-| 卸载indexiine   | [indexiine](https://littleFIve233.GitHub.io/wiiu/2023/02/01/uninstall-indexiine.html)     |
+| 卸载CBHC | [CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)     |
+| 卸载indexiine   | [indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)     |
 
-- 卸载过时的破解有助于方便做Tiramisu，如果你现在不想卸载，后面的教程也会让你卸载，所以即使有旧破解也可以直接[开始Tiramisu教程](https://littleFIve233.GitHub.io/wiiu/2023/02/05/prepare-Tiramisu.html)
+- 卸载过时的破解有助于方便做Tiramisu，如果你现在不想卸载，后面的教程也会让你卸载，所以即使有旧破解也可以直接[开始Tiramisu教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)

@@ -58,4 +58,4 @@ slc.bin、slccmpt.bin、seeprom.bin、otp.bin然后将它们复制到电脑上�
 
 <hr />
 
-## [以上步骤全部完成后点我继续（Tiramisu破解）](https://littleFIve233.GitHub.io/wiiu/2023/02/05/Hack-Tiramisu.html)
+## [以上步骤全部完成后点我继续（Tiramisu破解）](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-Tiramisu.html)
