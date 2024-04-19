@@ -50,7 +50,9 @@ udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内�
 
 将recovery_menu文件放入wiiuSD卡的根目录中
 
-### [设置树莓派PICO](https://pico.org.cn/)![pico导入uf2文件](https://pico.org.cn/images/blink-an-led-final.gif)
+### [设置树莓派PICO]
+
+(https://pico.org.cn/)![pico导入uf2文件](https://pico.org.cn/images/blink-an-led-final.gif)
 
 ### [设置树莓派zero](https://github.com/GaryOderNichts/udpih#raspberry-pi-zero-linux)
 
@@ -58,7 +60,7 @@ udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内�
 
 下载[udpih_nxpayload.bin](https://github.com/GaryOderNichts/udpih_nxpayload/releases/)，将udpih_nxpayload放入Switch储存卡的SD://bootloader/payload文件夹，打开hekate然后选择payloads，启动udpih。
 
-- 你用不着全做……做一个设备来用就行
+- 你用不着全做一遍……做一个设备够用就行
 
 <hr />
 
