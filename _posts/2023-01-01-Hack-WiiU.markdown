@@ -12,7 +12,7 @@ describe: 一切从这里开始
 
 本教程将会教你把你的Wii U破解为Tiramisu（或Aroma）
 
-首先，在破解时，请保持冷静，请不要觉得稍微操作一下Wii U主机就暴毙。
+首先，在破解时，请保持心态平稳，请不要漏下步骤和觉得自己能直接暴毙Wii U主机。
 
 如果你还是分不清Wii U从过去到现在的破解，建议先阅读[这个……](https://wiiu.1919810.com/wiiu/2023/02/05/hacksWord.html)
 
@@ -30,7 +30,7 @@ describe: 一切从这里开始
 
 **对计算机基础名词有一些了解**
 
-**请不要直接初始化主机**
+**请不要直接初始化主机和格式化储存卡**
 
 **最好不要使用手机OTG往储存卡放文件或格卡**
 
@@ -47,19 +47,23 @@ describe: 一切从这里开始
 
 * Tiramisu：它不需要花费任何费用，它是一个免费的CBHC，但它比CBHC更加先进
 
-* Aroma：可选，最大的问题是可能会不稳定
+* Aroma：可选，最大的问题是Beta版可能会不稳定
 
 * Haxchi与CBHC：需要购买DS游戏，做完CBHC后可以进行开机自动启动
 
 * Mocha与indexiine：它们不需要花费任何费用，不过需要每次开机都进浏览器执行漏洞
 
-* 注：Mocha和Haxchi已为过时方法
+* 注：Mocha和Haxchi已为过时方法，本教程不提供这两种方法的破解教程
 
 <hr />
 
 ## 之前破解过
 
-你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，或者直接[转为Tiramisu CFW](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)来更加地方便地使用Wii U；如果需要中文系统，可以看[这里](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
+你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，
+
+或者直接[转为Tiramisu CFW](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)来更加地方便地使用Wii U。
+
+如果需要中文系统，可以看[这个](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
 
 **请不要直接初始化主机和格式化储存卡！**
 
@@ -73,8 +77,8 @@ describe: 一切从这里开始
 
 | 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
 | ----------------------- | ------------ | ------------------------ |
-| Tiramisu            | [开始Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新版本破解 |
-| Aroma(需要已装Tiramisu)            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新版本破解 |
+| Tiramisu            | [开始Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新系统 |
+| Aroma(需要已装Tiramisu)            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新系统 |
 
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
