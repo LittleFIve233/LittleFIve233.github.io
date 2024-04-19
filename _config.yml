@@ -1,10 +1,10 @@
-title: "Wii U破解"
-description: "WiiU破解教程"
+title: "LittleFIve的大House？"
+description: "Wowwwwww"
 url: ""
 baseurl: ""
 author: "LittleFIve"
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 plugins:
   - jekyll-sitemap
