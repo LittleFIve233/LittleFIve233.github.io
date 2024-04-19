@@ -3,7 +3,7 @@ layout: post
 title: "破解vWii"
 date: 2023-02-04 10:40:00 +0800
 categories: WiiU
-tags: hacks WiiU
+tags: hacks WiiU vwii
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 破解主机为TiramisuCFW
 ---
@@ -18,23 +18,24 @@ describe: 破解主机为TiramisuCFW
 
 ### 准备
 
-- WiiU破解正常运作
+- [WiiU破解正常运作](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-WiiU.html)
 
-- [最新的Tiramisu（如果你是跟着本教程全新或者重新安装破解，将不需要下载）](https://tiramisu.foryour.cafe/)
+- 最新的Tiramisu或者Aroma（如果你是跟着本教程全新或者重新安装破解，将不需要下载）
 
-- [最新的vwii-compat-installer](https://github.com/mkwcat/vwii-compat-installer/releases)
+- [最新的vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases/tag/v1.6)
+  - Aroma与Tiramisu请按自己的情况选择
 
 - [Patched IOS 80 Installer for vWii](https://wiiu.hacks.guide/docs/files/Patched_IOS80_Installer_for_vWii.zip)
 
 - [d2x cIOS Installer](https://wiiu.hacks.guide/docs/files/d2x_cIOS_Installer.zip)
 
-**请务必下载好文件，不然没法保证破解正常完成**
+**请务必下载好文件，不然无法保证破解正常完成**
 
 <hr />
 
 ## 开始
 
-0.**请先预备好Tiramisu破解环境**
+0.**请先破解好Tiramisu或Aroma！**
 
 1.将WiiU储存卡插入到电脑
 
@@ -68,13 +69,13 @@ Dump SEEPROM: yes
 
 1.确保WiiU正在使用的破解是Tiramisu
 
-2.从mii工作室启动HBL
+2.从Mii工作室启动HBL
 
-3.选择compat_installer然后选load
+3.选择compat_installer然后选择load
 
 4.按下A键安装the Homebrew Channel，当出现Install succeeded后按Home键退出然后回到WiiU主菜单
 
-5.现在启动vWii，并进入the Homebrew Channel
+5.现在启动vWii，然后进入the Homebrew Channel
 
 <hr />
 
@@ -138,10 +139,10 @@ Dump SEEPROM: yes
 
 ## 拓展与注意事项
 
-想要在vWii上玩游戏，请使用[WiiFlow](https://wii.guide/zh_CN/wiiflow)或者[USB Loader GX](https://wii.guide/zh_CN/usbloadergx)自制程序详情
+想要在vWii上玩游戏，请使用[WiiFlow](https://wii.guide/zh_CN/wiiflow)或者[USB Loader GX](https://wii.guide/zh_CN/usbloadergx)自制程序
 
-Priiloader无法用于vWii
+[Priiloader现可用于vWii](https://github.com/DacoTaco/priiloader/)
 
-请不要安装来历不明的wad文件，这可能会要了你vWii的命
+请不要安装来历不明的wad文件，这可能会要了你vWii的命！！
 
-不要安装来历不明的vWii Menu
+不要安装来历不明的vWii Menu！
