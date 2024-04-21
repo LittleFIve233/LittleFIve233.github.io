@@ -43,11 +43,11 @@ describe: 一切从这里开始
 
 ## 目前的CFW简介
 
-* **目前最推荐的CFW仍是Tiramisu，它不需要花费任何费用并且可以在开机时自动启动**
+* **目前最推荐的CFW是Aroma，Tiramisu的升级版**
+
+* Aroma：Tiramisu的升级版，拥有插件加载器，扩展功能更强
 
 * Tiramisu：它不需要花费任何费用，它是一个免费的CBHC，但它比CBHC更加先进
-
-* Aroma：可选，最大的问题是Beta版可能会不稳定
 
 * Haxchi与CBHC：需要购买DS游戏，做完CBHC后可以进行开机自动启动
 
@@ -77,8 +77,8 @@ describe: 一切从这里开始
 
 | 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
 | ----------------------- | ------------ | ------------------------ |
-| Tiramisu            | [开始Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新系统 |
-| Aroma(需要已装Tiramisu)            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新系统 |
+| Aroma            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新系统 |
+|  Tiramisu           | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新系统 |
 
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
