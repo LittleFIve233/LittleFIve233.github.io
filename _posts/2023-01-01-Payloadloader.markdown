@@ -21,7 +21,7 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 ## 安装PayloadLoader
 
-*如果你的内存卡没有从电脑上弹出，请弹出并插回Wii U主机*。*
+*如果你的内存卡没有从电脑上弹出，请弹出并插回Wii U主机*
 
 1.执行之前的[浏览器漏洞](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%BC%8F%E6%B4%9E)。
 
