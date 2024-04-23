@@ -22,14 +22,14 @@ describe: 安装软件或自制程序
 
 **你的安装包文件（请自行寻找，本博客不提供游戏下载）**
 
-对于Tiramisu，请使用：**[Wup instaler GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2/releases/download/v1/wup_installer_gx2.elf)**
+对于Tiramisu，请使用：**[Wup installer GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2/releases/download/v1/wup_installer_gx2.elf)**
 
 - 请放入SD:/wiiu/apps/wup_installer_gx2/文件夹中（如果没有文件夹就创建）
 
-对于Aroma，请使用：**[Wup instaler GX2 WUHB](https://github.com/Fangal-Airbag/wup-installer-gx2/releases/tag/v1.3.1)**
+对于Aroma，请使用：**[Wup installer GX2 WUHB](https://github.com/Fangal-Airbag/wup-installer-gx2/releases/tag/v1.3.1)**
 
 - 请放入SD:/wiiu/apps/文件夹中
- - 此外，[在这里附上由博主汉化的Wup instaler GX2 WUHB](https://github.com/LittleFIve233/wup-installer-gx2-wuhb-zh/releases/tag/wuhb(zh-hans))
+ - 此外，[在这里附上由博主汉化的Wup installer GX2 WUHB](https://github.com/LittleFIve233/wup-installer-gx2-wuhb-zh/releases/tag/wuhb(zh-hans))
 
 <hr />
 
@@ -48,6 +48,8 @@ describe: 安装软件或自制程序
 4.等待跑条完毕
 
 <hr />
+
+[Homebrew Appstore可以直接从Wii U浏览和下载自制程序](https://wiiubru.com/appstore/zips/appstore.zip)
 
 ## （Tiramisu）往HBL添加自制程序
 （如果网络方便可以使用HBAppStore）
