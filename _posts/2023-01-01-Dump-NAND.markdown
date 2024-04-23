@@ -55,4 +55,4 @@ Dump SEEPROM: yes
 
 <hr />
 
-## [以上步骤全部完成后点我继续（安装PayloadLoader）](#)
+## [以上步骤全部完成后点我继续（安装PayloadLoader）](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
