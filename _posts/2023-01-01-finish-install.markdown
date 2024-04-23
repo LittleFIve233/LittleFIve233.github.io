@@ -18,7 +18,7 @@ describe: 完成安装
 
 当主机自动启动时，将会自动选择WiiU菜单作为默认启动项
 
-请注意，Autobooting Tiramisu已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要[移除Autobooting Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html#%E5%8F%96%E6%B6%88%E8%87%AA%E5%90%AF%E5%8A%A8tiramisu)，才能使用系统更新
+请注意，Autobooting Tiramisu已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要[移除PayloadLoader](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html#%E5%8F%96%E6%B6%88%E8%87%AA%E5%90%AF%E5%8A%A8tiramisu)，才能使用系统更新
 
 [如果出现199-9999错误，请检查储存卡。](https://wiiu.1919810.com/wiiu/2023/02/05/QA.html#tiramisu%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF)
 
