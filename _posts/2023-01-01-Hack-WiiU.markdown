@@ -43,7 +43,7 @@ describe: 一切从这里开始
 
 ## 目前的CFW简介
 
-* **目前最推荐的CFW是Aroma，Tiramisu的升级版**
+* **目前最推荐的CFW是Aroma，它是Tiramisu的升级版**
 
 * Aroma：Tiramisu的升级版，拥有插件加载器，扩展功能更强
 
@@ -61,7 +61,7 @@ describe: 一切从这里开始
 
 你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，
 
-或者直接[转为Tiramisu CFW](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)来更加地方便地使用Wii U。
+或者直接[转为Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare)来更加地方便地使用Wii U。
 
 如果需要中文系统，可以看[这个](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
 
@@ -77,8 +77,8 @@ describe: 一切从这里开始
 
 | 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
 | ----------------------- | ------------ | ------------------------ |
-| Aroma            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/Aroma.html)     | 请更新到最新系统 |
-|  Tiramisu           | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)     | 请更新到最新系统 |
+| Aroma            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
+|  Tiramisu           | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
 
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
@@ -89,4 +89,4 @@ describe: 一切从这里开始
 | 卸载CBHC | [CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)     |
 | 卸载indexiine   | [indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)     |
 
-- 卸载过时的破解有助于方便做Tiramisu，如果你现在不想卸载，后面的教程也会让你卸载，所以即使有旧破解也可以直接[开始Tiramisu教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare-Tiramisu.html)
+- 卸载过时的破解有助于方便做Tiramisu，如果你现在不想卸载，后面的教程也会让你卸载，所以即使有旧破解也可以直接[开始Tiramisu教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)

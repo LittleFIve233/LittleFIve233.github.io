@@ -1,0 +1,93 @@
+---
+layout: post
+title: "准备破解"
+date: 2023-02-05 12:40:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
+describe: 准备破解
+---
+
+## 准备破解
+
+<hr />
+
+## 卸载过时的破解
+
+**请在安装新的破解前卸载旧的破解**
+
+如果你是要Tiramisu升级到Aroma，则应该跳至[准备文件](#)
+
+[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
+
+[卸载Indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)
+
+卸载Haxchi仅需打开主机设置，选择数据管理然后去主机存储找到Haxchi并删除
+
+- 如果你想保留Haxchi，请看[Haxchi与Tiramisu共存](https://wiiu.1919810.com/wiiu/2022/10/28/Save-Haxchi.html)
+
+如果你一直使用网页破解，也就是在线漏洞（**不是打开浏览器自动破解的indexiine！**），那可以继续此教程
+
+#### **请不要参考Haxchi的方式卸载CBHC！**，如果你~~脑抽~~这样删除了CBHC，你的机器则只能通过以下方式恢复：
+
+[恢复备份（需要焊接技能和NAND备份）](https://gbatemp.net/threads/guide-kaflukes-hardmod-cbhc-unbrick-guide.476725/)
+
+[使用USB漏洞（需要最新主机版本与支持设备）](https://wiiu.1919810.com/wiiu/2023/02/01/udpih.html)。
+
+<hr />
+
+## 准备SD卡
+
+将储存卡格式化为FAT32（如果你之前拥有别的破解，请不要格式化！）
+
+- [64G储存卡可能需要其他工具进行格式化为FAT32](https://github.com/inconsistent-dg/guiformat/releases/tag/v1.0.1.0)
+
+### 从这里下载你需要的文件：
+
+*你可以一起下载Aroma和Tiramisu或者只下载一个*
+
+*若无法下载请挂梯*
+
+- Aroma：[aroma.foryour.cafe](https://aroma.foryour.cafe/)
+
+  - 请把四个警示都打钩后，选择主要内容下载：请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
+
+  - 把压缩包中的wiiu文件夹依次放入wiiu SD卡中的根目录
+
+- Tiramisu：[tiramisu.foryour.cafe](https://tiramisu.foryour.cafe/)
+
+  - 请点击Download Tiramisu，并将下载好的压缩包中的wiiu文件夹放入根目录
+  
+- [最新的**01_sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
+
+  - 请下载 01_sigpatches.rpx并放在SD://wiiu/environments/[Tiramisu\Aroma]/modules/setup文件夹中
+
+<hr />
+
+如果一切步骤正常，那么SD卡的文件应该只有wiiu文件夹被更新了！
+
+![SD卡文件](https://s1.ax1x.com/2022/03/28/qDj62V.png)
+
+<hr />
+
+## 浏览器漏洞
+
+**请确保你的主机可以连接至互联网，再进行以下步骤**
+
+[怎么给我的Wii U主机联网](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1126)
+
+1.把SD卡从电脑中弹出并插入Wii U主机。
+
+2.打开Wii U的网络浏览器，然后访问 [u.wiidb.de](https://u.wiidb.de) 网站。
+
+- 备用网站：
+
+[littlefive233.github.io/LoveU/](https://wiiu.1919810.com/LoveU/)
+
+3.点击 **HAXX** ，等待新的页面打开后看到右下角的wiiulogo时按住**B键**，直到见到菜单才可以松开。
+
+- 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
+
+<hr />
+
+## [以上步骤全部完成后点我继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
