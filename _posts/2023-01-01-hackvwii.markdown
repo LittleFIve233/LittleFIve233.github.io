@@ -5,7 +5,7 @@ date: 2023-02-04 10:40:00 +0800
 categories: WiiU
 tags: hacks WiiU vwii
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 破解主机为TiramisuCFW
+describe: 破解vWii
 ---
 
 ## 破解vWii
