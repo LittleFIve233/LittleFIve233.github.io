@@ -66,9 +66,9 @@ describe: 疑难解答
 
 可能是因为之前做过RegionHax，导致图标缺失
 
-从Wii U的HBL打开FTP_everywherw，电脑打开任意FTP Client软件，然后进行连接
+从Wii U的HBL打开FTP_everywhere，电脑打开任意FTP Client软件，然后进行连接
 
-请打开/vol/slcnand/config/文件夹，并从文件夹中下载sys_prod.xml。
+请打开```/vol/storage_slc/config/```文件夹，并从文件夹中下载sys_prod.xml。
 
 **请仅仅修改指定区域的文本，乱动会引起砖机！请小心再小心**
 
