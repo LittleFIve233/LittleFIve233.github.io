@@ -14,11 +14,15 @@ describe: UDFiine解除阻止系统更新
 
 ## 开始
 
-如果你需要进行系统更新，需要做这个教程！
+如果你需要进行系统更新，则需要这个教程！
 
 <hr />
 
-### 方法1：恢复系统更新文件夹
+### 方法1：解除Aroma/tiramisu的屏蔽更新
+
+开机（没有自启动则是打开安全使用须知时）按住+键进入AutobootModule选择界面，按+键和-键解除屏蔽更新（Update Unblock！）
+
+### 方法2：恢复系统更新文件夹
 
 > 这个阻止更新的办法比使用DNS屏蔽更加高级，需要使用一个自制程序来修改系统文件。且eShop的功能不会受到限制。
 
@@ -31,8 +35,6 @@ describe: UDFiine解除阻止系统更新
 4.按下A恢复更新文件夹并确认它的提示。
 - 你现在不再阻止系统更新了。Update folder exists
 
-### 方法2：解除DNS屏蔽
+### 方法3：解除DNS屏蔽
 
 进入Wii U的系统设置，然后打开：Internet（网络）> Connect to the Internet（连接至网络）> Connection List（接入点列表）>Your WiFi connection（你的WiFi接入点）> Change Settings（更改设定）> DNSAuto-obtain（自动获取）
-
-你现在不再阻止系统更新了。
