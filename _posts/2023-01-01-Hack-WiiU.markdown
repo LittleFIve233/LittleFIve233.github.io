@@ -86,7 +86,7 @@ describe: 一切从这里开始
 | Aroma            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
 |  Tiramisu           | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
 
-- 如果你实在是没法进行浏览器破解，可以试着使用[DNSpresso](#)
+- 如果你实在是没法进行浏览器破解，可以试着使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
 - 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
 - 如果系统版本显示99.99.99，需要[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
