@@ -5,7 +5,7 @@ date: 2023-02-02 07:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: UDFiine解除阻止系统更新
+describe: 解除阻止系统更新
 ---
 
 # 解除阻止系统更新
