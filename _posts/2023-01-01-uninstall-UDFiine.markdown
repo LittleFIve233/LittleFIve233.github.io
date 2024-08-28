@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UDFiine解除阻止系统更新"
+title: "解除阻止系统更新"
 date: 2023-02-02 07:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
