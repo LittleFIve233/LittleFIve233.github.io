@@ -37,6 +37,8 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
 
+### 如果你以前安装过indexiine然后格式化存储卡导致进入浏览器就死机可以[尝试DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
+
 ## 安装PayloadLoader
 
 1.如果前面的步骤成功进行，WiiU将进入一个蓝色的菜单，请使用 十字键 选择installer并按A键进入
