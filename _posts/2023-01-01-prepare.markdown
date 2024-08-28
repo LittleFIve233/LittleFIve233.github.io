@@ -69,7 +69,6 @@ describe: 准备破解
 ![SD卡文件](https://s1.ax1x.com/2022/03/28/qDj62V.png)
 
 <hr />
-
-## [以上步骤全部完成后点我继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
-
-## [若不想对NAND进行备份，请进行至安装Payloadloader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+## [以上步骤全部完成后继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
+<hr />
+## [若不想对NAND进行备份，继续安装Payloadloader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
