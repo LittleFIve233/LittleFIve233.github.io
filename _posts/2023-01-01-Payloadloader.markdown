@@ -41,7 +41,9 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 ## 安装PayloadLoader
 
-1.如果前面的步骤成功进行，WiiU将进入一个蓝色的菜单，请使用 十字键 选择installer并按A键进入
+1.进入蓝色页面的Payloadloader后，选择进入aroma，稍等后将进入WiiU Menu（如果进入了AutobootModule则选择wiiu menu），找到payloadloaderinstaller并进入它
+
+> 如果有需要一起做了Tiramisu，则会在Payloadloader里看见installer，此时也可以使用这个installer安装payloadloader
 
 2.按选择check按A键检查你是否可以安装PayloadLoader
 - 它应该会告知你PayloadLoader能够安装到安全使用须知软件
