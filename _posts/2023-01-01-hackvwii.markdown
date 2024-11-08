@@ -141,9 +141,9 @@ describe: 破解vWii
 
 ## 注意事项
 
-想要在vWii上玩游戏，请使用[WiiFlow](#)或者[USB Loader GX](https://wii.guide/zh_CN/usbloade)自制程序
+想要在vWii上玩游戏，请使用[WiiFlow](https://wii.hacks.guide/wii-loaders.html#wiiflow-lite)或者[USB Loader GX](https://wii.hacks.guide/wii-loaders.html#usb-loader-gx)自制程序
 
-[还原vWii](#)
+[还原vWii](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)
 
 请不要安装来历不明的wad文件，这可能会要了你vWii的命！！
 
