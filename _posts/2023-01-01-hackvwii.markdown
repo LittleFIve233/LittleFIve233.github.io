@@ -112,9 +112,9 @@ describe: 破解vWii
 3.第三次设定选项：
 
 >Select cIOS: d2x-v11-beta1-vWii
-
+>
 >Select cIOS base: 58
-
+>
 >Select cIOS slot: 251
 
 按下A键进行安装
