@@ -32,7 +32,7 @@ ow3禁用了读取软件列表，所以无法用常用的方法去清除数据
 
 打开手表更新界面，输入以下命令：
 
-`adb shell dumpsys window w |findstr \/ |findstr name=`
+>`adb shell dumpsys window w |findstr \/ |findstr name=`
 
 重点查看后三行：
 
@@ -40,6 +40,6 @@ msurface＝surface(name＝com.heytap.wearable.ota...)
 
 获取到包名后输入：
 
-adb shell pm clear com.heytap.wearable.ota
+>adb shell pm clear com.heytap.wearable.ota
 
 上面这串命令是清除数据，把系统更新软件的数据清除后，下载的系统更新会一并删除

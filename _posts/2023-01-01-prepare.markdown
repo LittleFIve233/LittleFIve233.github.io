@@ -16,23 +16,17 @@ describe: 准备破解
 
 **请在安装新的破解前卸载旧的破解**
 
-如果你是要Tiramisu升级到Aroma，则应该跳至[准备SD卡](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)
+如果你是要Tiramisu升级到Aroma，则应该直接开始至[准备SD卡](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)
 
 [卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
 
+- **请不要参考Haxchi的方式卸载CBHC！**
+
 [卸载Indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)
 
-卸载Haxchi仅需打开主机设置，选择数据管理然后去主机存储找到Haxchi并删除
+卸载Haxchi：打开主机设置，选择数据管理后在主机存储中找到Haxchi并选择删除
 
-- 如果你想保留Haxchi，请看[Haxchi与Tiramisu共存](https://wiiu.1919810.com/wiiu/2022/10/28/Save-Haxchi.html)
-
-如果你一直使用网页破解，也就是在线漏洞（**不是打开浏览器自动破解的indexiine！**），那可以继续此教程
-
-#### **请不要参考Haxchi的方式卸载CBHC！**，如果你~~脑抽~~这样删除了CBHC，你的机器则只能通过以下方式恢复：
-
-[恢复备份（需要焊接技能和NAND备份）](https://gbatemp.net/threads/guide-kaflukes-hardmod-cbhc-unbrick-guide.476725/)
-
-[使用USB漏洞（需要最新主机版本与支持设备）](https://wiiu.1919810.com/wiiu/2023/02/01/udpih.html)。
+如果你一直使用网页破解，也就是在线漏洞（**不是打开浏览器自动跳转破解的indexiine！**），那可以继续此教程
 
 <hr />
 
@@ -50,23 +44,19 @@ describe: 准备破解
 
 - Aroma：[aroma.foryour.cafe](https://aroma.foryour.cafe/)
 
-  - 将四个警示都打钩后，选择主要内容下载：请下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
-
-  - 把压缩包中的wiiu文件夹依次放入wiiu SD卡中的根目录
+>将四个警示都打钩后，选择下载Base的所有内容、Aroma、以及除了USB Serial logging模块其他模块都要下载
+>
+>把压缩包中的wiiu文件夹全部放入wiiu SD卡中的根目录
 
 - Tiramisu：[tiramisu.foryour.cafe](https://tiramisu.foryour.cafe/)
 
-  - 请点击Download Tiramisu，并将下载好的压缩包中的wiiu文件夹放入根目录
-  
+>请点击Download Tiramisu，并将下载好的压缩包中的wiiu文件夹放入根目录
+
 - [最新的**01_sigpatches.rpx**](https://github.com/marco-calautti/SigpatchesModuleWiiU/releases/tag/1.2)
 
-  - 请下载 01_sigpatches.rpx并放在SD://wiiu/environments/[Tiramisu\Aroma]/modules/setup文件夹中
+>请下载01_sigpatches.rpx并放在SD://wiiu/environments/[Tiramisu\Aroma]/modules/setup文件夹中
 
-<hr />
-
-如果一切步骤正常，那么SD卡的文件应该只有wiiu文件夹被更新了！
-
-![SD卡文件](https://s1.ax1x.com/2022/03/28/qDj62V.png)
+**如果一切步骤正常，那么SD卡的文件应该只有wiiu文件夹被更新了！**
 
 <hr />
 ## [以上步骤全部完成后继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)

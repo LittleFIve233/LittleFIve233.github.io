@@ -22,8 +22,8 @@ describe: 破解vWii
 
 - 最新的Tiramisu或者Aroma（如果你是跟着本教程全新或者重新安装破解，将不需要下载）
 
-- [最新的vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases/tag/v1.6)
-  - Aroma与Tiramisu请按自己的情况选择
+- [最新的vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases)
+  - Aroma与HBL请按自己的情况选择
 
 - [Patched IOS 80 Installer for vWii](https://wiiu.hacks.guide/docs/files/Patched_IOS80_Installer_for_vWii.zip)
 
@@ -43,39 +43,41 @@ describe: 破解vWii
 
 3.解压d2x_cIOS_Installer.zip把目录放到储存卡根目录的apps文件夹中
 
-4.复制下载的compat_installer.elf到wiiu/apps/compat_installer/文件夹中（如果没有则创建）
+（tiramisu）解压下载的compat_install-HBL.zip，复制compat_installer文件夹到wiiu/apps/文件夹中
 
-现在将储存卡弹出插回WiiU
+（Aroma）解压下载的compat_install-Aroma.zip，复制compat_install.wuhb文件到wiiu/apps文件夹
+
+现在将储存卡弹出电脑并插回WiiU
 
 <hr />
 
 ### 备份nand
 
-若先前跟着教程走过，请检查slccmpt.bin是否有备份，如果没有请把nanddumper调为此状态重新dump：
+如果之前跟着教程备份过，请检查slccmpt.bin是否有备份，如果没有请把nanddumper调为此状态重新dump：
 
-Dump SLC: 可选
-
-Dump SLCCMPT: yes
-
-Dump MLC: 可选
-
-Dump OTP: yes
-
-Dump SEEPROM: yes
+>Dump SLC: 可选
+>
+>Dump SLCCMPT: yes
+>
+>Dump MLC: 可选
+>
+>Dump OTP: yes
+>
+>Dump SEEPROM: yes
 
 <hr />
 
 ### 安装the Homebrew Channel
 
-1.确保WiiU正在使用的破解是Tiramisu
+1.确保WiiU已经破解
 
-2.从Mii工作室启动HBL
+（Aroma）从桌面启动compat_installer
 
-3.选择compat_installer然后选择load
+（Triamisu）从Mii工作室启动HBL找到compat_installer后点击并选择Load
 
-4.按下A键安装the Homebrew Channel，当出现Install succeeded后按Home键退出然后回到WiiU主菜单
+3.按下A键安装the Homebrew Channel，当出现Install succeeded后按Home键退出然后回到WiiU主菜单
 
-5.现在启动vWii，然后进入the Homebrew Channel
+4.现在启动vWii，然后进入the Homebrew Channel
 
 <hr />
 
@@ -83,11 +85,11 @@ Dump SEEPROM: yes
 
 **请保证你储存卡的apps文件夹里没有*任何*的.wad文件**
 
-1.打开d2x cIOS Installer
+0.打开d2x cIOS Installer
 
-**确保下面的步骤不要做错！！**
+**将要进行三次修改，请一定确保下面的步骤不要做错！！**
 
-2.第一次设定选项：
+1.第一次设定选项：
 
 - Select cIOS: d2x-v11-beta1-vWii
 
@@ -97,7 +99,7 @@ Dump SEEPROM: yes
 
 按下A键进行安装
 
-3.第二次设定选项：
+2.第二次设定选项：
 
 - Select cIOS: d2x-v11-beta1-vWii
 
@@ -107,7 +109,7 @@ Dump SEEPROM: yes
 
 按下A键进行安装
 
-4.第三次设定选项：
+3.第三次设定选项：
 
 - Select cIOS: d2x-v11-beta1-vWii
 
@@ -117,7 +119,7 @@ Dump SEEPROM: yes
 
 按下A键进行安装
 
-5.完成安装后按B退出
+4.完成安装后按B退出
 
 <hr />
 
@@ -125,7 +127,7 @@ Dump SEEPROM: yes
 
 **注意：如果因为任何原因你的WiiU在给IOS80打补丁的时候关机，这都将损坏你的vWii！如果你不小心损坏了vWii，[请参考此教程恢复](#)**
 
-1.在the Homebrew Channel中选择Patched IOS 80 Installer并load
+1.在the Homebrew Channel中选择Patched IOS 80 Installer并选择load
 
 2.阅读警告信息并等待30秒
 
@@ -137,11 +139,11 @@ Dump SEEPROM: yes
 
 <hr />
 
-## 拓展与注意事项
+## 注意事项
 
-想要在vWii上玩游戏，请使用[WiiFlow](https://wii.guide/zh_CN/wiiflow)或者[USB Loader GX](https://wii.guide/zh_CN/usbloadergx)自制程序
+想要在vWii上玩游戏，请使用[WiiFlow](#)或者[USB Loader GX](https://wii.guide/zh_CN/usbloade)自制程序
 
-[Priiloader现可用于vWii](https://github.com/DacoTaco/priiloader/)
+[还原vWii](#)
 
 请不要安装来历不明的wad文件，这可能会要了你vWii的命！！
 

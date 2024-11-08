@@ -16,22 +16,20 @@ describe: DumpNAND
 
 ## 制作NAND备份
 
-**如果你已经通过其他教程安装了自启动Tiramisu，那么请跳过此章节**
-
 >- Wii U NAND备份的大小取决于你的主机的内部存储大小，例如8GB或32GB。
->  - 为了备份，你需要准备一张足够大的储存卡，8G请使用16G及更大；32G请至少使用64G的储存卡，如果你没有这么大的储存卡，~~那赶紧去买啊~~可以在备份时把MLC项选择No，**但要记住MLC的备份也很重要，若以后有足够时间足够储存，请一定要备份MLC。**
+>  - 为了备份，你需要准备一张足够大的储存卡，8G请至少使用16G以上的储存卡；32G请至少使用64G的储存卡，如果你没有这么大的储存卡，~~那还不快去买啊~~可以在备份时把MLC项选择No，**但要记住MLC的备份也很重要，若以后有足够时间足够储存，请一定要备份MLC。**
 
 >恢复NAND备份需要额外的设备和焊接技能。
 >注意：备份NAND是为了**以防万一**，所以不要跳过这一步。
->**你从某一台设备导出的NAND备份是那一台设备专用的。恢复其他主机的NAND备份不能救砖！**
+>**你从某一台设备导出的NAND备份将不可用，请谨记一个萝卜一个坑。恢复其他主机的NAND备份不能救砖！**
 
 <hr />
 
-## 如果你已经做完了Payloadloader，请在打开安全使用须知时按住gamepad的B键
+### 如果你已经做完了Payloadloader，请在打开安全使用须知（黄色感叹号软件）时按住gamepad的B键
 
-## 如果你已经做完了自启动Payloadloader，请在开机WiiULogo出现时按住gamepad的B键
+### 如果你已经做完了自启动Payloadloader，请在开机WiiULogo出现时按住gamepad的B键
 
-## 浏览器漏洞
+## 如果以上均未有请按照以下浏览器漏洞步骤操作
 
 **请确保你的主机可以连接至互联网，再进行以下步骤**
 
@@ -39,7 +37,7 @@ describe: DumpNAND
 
 1.把SD卡从电脑中弹出并插入Wii U主机。
 
-2.打开Wii U的网络浏览器，然后访问 [u.wiidb.de](https://u.wiidb.de) 网站。
+2.打开Wii U的网络浏览器，然后访问[u.wiidb.de](https://u.wiidb.de) 网站。
 
 - 备用网站：
 
@@ -49,21 +47,21 @@ describe: DumpNAND
 
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
 
-### DumpNAND
+### 导出NAND
 
 1.使用 十字键 选择NANDDumper，并按A键进入
 
-2.使用WiiU GamePad或手柄上的十字键来配置以下内容：
+2.使用WiiU GamePad或手柄上的十字键来配置为以下内容：
 
-Dump SLC: yes
-
-Dump SLCCMPT: yes
-
-Dump MLC: yes（如果你没有比主机内存还大的存储卡则可选）
-
-Dump OTP: yes
-
-Dump SEEPROM: yes
+>Dump SLC: yes
+>
+>Dump SLCCMPT: yes
+>
+>Dump MLC: yes（如果你没有比主机内存还大的存储卡则可选No）
+>
+>Dump OTP: yes
+>
+>Dump SEEPROM: yes
 
 3.按下A键开始导出。
 
@@ -77,4 +75,4 @@ Dump SEEPROM: yes
 
 <hr />
 
-## [以上步骤全部完成后点我继续（安装PayloadLoader）](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+## [以上步骤全部完成后继续至安装PayloadLoader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)

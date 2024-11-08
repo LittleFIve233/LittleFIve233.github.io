@@ -14,8 +14,6 @@ describe: 安装软件或自制程序
 
 ## 需要什么？
 
-**请先进行破解再继续步骤**
-
 **可移动设备的文件（最好是电脑而不是手机OTG）**
 
 **至少32GB的SD卡**
@@ -37,9 +35,9 @@ describe: 安装软件或自制程序
 
 0.在SD卡根目录中创建名为“Install”的文件夹，并将游戏WUP安装包丢进根目录
 
-1.（Tiramisu）在HBL中找到Wup installer GX2并打开它
+（Tiramisu）在HBL中找到Wup installer GX2并打开它
 
-1.（Aroma）在桌面上找到Wup installer GX2并打开它
+（Aroma）在桌面上找到Wup installer GX2并打开它
 
 2.在左边选中安装包，点击右下角install
 

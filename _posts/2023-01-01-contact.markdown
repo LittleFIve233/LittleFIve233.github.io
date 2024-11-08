@@ -12,7 +12,7 @@ describe: 捐赠与交流
 ## 加入QQ群聊，与我们交流
 [![QQ群](https://wiiu.1919810.com/acnl-editor/resources/qrcode_1709359644363.jpg)](https://jq.qq.com/?_wv=1027&k=ffityEKG)
 
-[点击这里直接跳转QQ加群](https://jq.qq.com/?_wv=1027&k=ffityEKG)
+[点击这里或图片直接跳转QQ加群](https://jq.qq.com/?_wv=1027&k=ffityEKG)
 
 <hr />
 

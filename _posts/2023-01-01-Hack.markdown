@@ -8,15 +8,16 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 安装CFW
 ---
 
-# 以下两种破解，请从两个中选一个
+# 请从以下两种破解中选一个
 
-推荐主用Aroma，保留Tiramisu，这将是最佳选择，Tiramisu用于启动旧自制程序
+如果你两者都使用则请主用Aroma，保留Tiramisu。
+这将是最佳选择，因为Tiramisu用于启动旧的部分elf自制程序
 
 <hr />
 
 ## 破解为Aroma
 
-**如果你是按照本教程破解的自启动，则第2步不用执行**
+**如果你使用的是自启动tiramisu，则第2步不用执行**
 
 1.将主机开机
 
