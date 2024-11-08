@@ -17,17 +17,17 @@ describe: 安装CFW
 
 ## 破解为Aroma
 
-**如果你使用的是自启动tiramisu，则第2步不用执行**
+**如果你是按照本教程破解的自启动，则第2步不用执行**
 
 1.将主机开机
 
-*（非自启动）* 2.打开安全使用须知（黄色感叹号）
+- （非自启动）打开安全使用须知（黄色感叹号）
 
-3.将光标移动到Aroma
+2.将光标移动到Aroma
 
-4.对准它按下Y设为自启动项后按A
+3.对准它按下Y设为自启动项后按A
 
-5.对准WiiU Menu按Y设为自启动项后按A
+4.对准WiiU Menu按Y设为自启动项后按A
 
 ## 破解为Tiramisu
 
@@ -35,14 +35,14 @@ describe: 安装CFW
 
 1.将主机开机
 
-*（非自启动）* 2.打开安全使用须知（黄色感叹号）
+- （非自启动）打开安全使用须知（黄色感叹号）
 
-3.将光标移动到Tiramisu
+2.将光标移动到Tiramisu
 
-4.对准它按下Y设为自启动项后按A
+3.对准它按下Y设为自启动项后按A
 
-5.对准WiiU Menu按Y设为自启动项后按A
+4.对准WiiU Menu按Y设为自启动项后按A
 
-## [继续至（破解vWii）](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)
+## [继续至破解vWii](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)
 
-## [或直接（完成安装）](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)
+## [继续至完成安装](https://wiiu.1919810.com/wiiu/2023/02/05/finish-install.html)

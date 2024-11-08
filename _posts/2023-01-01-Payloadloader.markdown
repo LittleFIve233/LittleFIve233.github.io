@@ -19,15 +19,13 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 ## 浏览器漏洞
 
 >**请确保你的主机可以连接至互联网，再进行以下步骤**
->
 >[怎么给我的Wii U主机联网](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1126)
 
 1.把SD卡从电脑中弹出并插入Wii U主机。
 
 2.打开Wii U的网络浏览器，然后访问 [u.wiidb.de](https://u.wiidb.de) 网站。
 
->- 备用网站：
->
+>备用网站：
 >[littlefive233.github.io/LoveU/](https://littlefive233.github.io/LoveU/)
 
 3.点击 **HAXX**

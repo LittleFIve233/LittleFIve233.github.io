@@ -91,31 +91,31 @@ describe: 破解vWii
 
 1.第一次设定选项：
 
-- Select cIOS: d2x-v11-beta1-vWii
-
-- Select cIOS base: 56
-
-- Select cIOS slot: 249
+>Select cIOS: d2x-v11-beta1-vWii
+>
+>Select cIOS base: 56
+>
+>Select cIOS slot: 249
 
 按下A键进行安装
 
 2.第二次设定选项：
 
-- Select cIOS: d2x-v11-beta1-vWii
-
-- Select cIOS base: 57
-
-- Select cIOS slot: 250
+>Select cIOS: d2x-v11-beta1-vWii
+>
+>Select cIOS base: 57
+>
+>Select cIOS slot: 250
 
 按下A键进行安装
 
 3.第三次设定选项：
 
-- Select cIOS: d2x-v11-beta1-vWii
+>Select cIOS: d2x-v11-beta1-vWii
 
-- Select cIOS base: 58
+>Select cIOS base: 58
 
-- Select cIOS slot: 251
+>Select cIOS slot: 251
 
 按下A键进行安装
 
