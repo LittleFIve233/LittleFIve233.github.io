@@ -8,42 +8,43 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 卸载PayloadLoader
 ---
 
-## 前言
+## 注意事项
 
-如果你想卸载Tiramisu，还有下面几步要走，请注意：**初始化主机不能卸载PayloadLoader**
+如果你正在卸载或者想卸载Tiramisu/Aroma，请注意：**初始化主机不能卸载PayloadLoader**请遵循以下步骤进行破解
 
 <hr />
 
-## 取消自启动Tiramisu
+## 删除自启动
 
-1.在启动主机时按住X将进入Environment Loader
+**（Tiramisu）**启动主机时按住X将进入EnvironmentLoader，选择Installer
 
-2.选择Installer然后按A启动
+**（Aroma）**进入主菜单后选择PayloadLoader-installer
 
-3.选择Boot Options
+1.选择Boot Options
 
-4.系统将询问您是否要切换启动软件，按A选择Switch back to Wii U Menu
+2.软件将询问是否要切换启动软件，按A选择Switch back to Wii U Menu
 
-5.该过程完成后，按A关闭主机
+3.该过程完成后，按A关闭主机
 
-- 主机现在将再次启动到Wii U菜单中。PayloadLoader仍然可以通过启动安全健康须来启动。
-
-- 现在系统更新将不再被屏蔽
+- PayloadLoader仍然可通过启动安全健康须知启动
+- 现在主机更新将不再被屏蔽
 
 <hr />
 
 ## 卸载PayloadLoader
 
-1.打开安全健康须知软件，同时在GamePad上按住X
+**（Tiramisu）**请在打开安全健康须知时在GamePad上按住X后在EnvironmentLoader选择Installer
 
-2.选择Installer然后按A启动
+**（Aroma）**打开安全健康须知后进入主菜单，在主菜单中找PayloadLoader-installer
 
-3.选择 Remove
+1.选择check
 
-4.系统将询问您是否真的想删除PayloadLoader，再次选择Remove
+2.选择Remove
 
-5.该过程完成后，按A关闭主机
+3.软件将询问你是否确认移除PayloadLoader，再次选择Remove
 
-> 现在Tiramisu已被完全卸载，如果还想进行破解请再次使用浏览器漏洞
+4.该过程完成后，按A关闭主机
+
+> 现在PayloadLoader已从主机中完全移除，如果还想进行破解请再次使用浏览器漏洞
 >
-> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)（需要再次使用网页漏洞）
+> 如果之前有屏蔽过系统更新，[请恢复系统更新](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)（需要再次使用网页漏洞）
