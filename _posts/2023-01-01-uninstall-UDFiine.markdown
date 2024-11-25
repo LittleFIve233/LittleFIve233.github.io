@@ -26,8 +26,6 @@ describe: 解除阻止系统更新
 
 ## 如果是旧的破解无法使用AutobootModule的方法
 
-> 这个阻止更新的办法比使用DNS屏蔽更加高级，需要使用一个自制程序来修改系统文件。且eShop的功能不会受到限制。
-
 1.下载 [UDFiine](https://wiiubru.com/appstore/zips/UFDiine.zip) 并解压到你的储存卡根目录，如果提示覆盖文件，请选择覆盖文件
 
 2.将储存卡插回Wii U并开机。
