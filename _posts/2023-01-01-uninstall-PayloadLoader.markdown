@@ -10,7 +10,7 @@ describe: 卸载PayloadLoader
 
 ## 注意事项
 
-如果你正在卸载或者想卸载Tiramisu/Aroma，请注意：**初始化主机不能卸载PayloadLoader**请遵循以下步骤进行破解
+如果你正在卸载或者想卸载Tiramisu/Aroma，请注意：**初始化主机不能卸载PayloadLoader**请遵循以下步骤进行卸载
 
 <hr />
 
