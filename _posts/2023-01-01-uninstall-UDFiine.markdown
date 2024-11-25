@@ -10,19 +10,21 @@ describe: 解除阻止系统更新
 
 # 解除阻止系统更新
 
-<hr />
-
 ## 开始
 
-如果你需要进行系统更新，则需要这个教程！
+如果你需要进行系统更新，则需要按以下步骤移除屏蔽更新
 
 <hr />
 
-### 方法1：解除Aroma/tiramisu的屏蔽更新
+## 移除屏蔽更新
 
-开机（没有自启动则是打开安全使用须知时）按住+键进入AutobootModule选择界面，按+键和-键解除屏蔽更新（Update Unblock！）
+1.开机（如果没有自启动则打开安全使用须知）按住+键进入AutobootModule选择界面
 
-### 方法2：恢复系统更新文件夹
+2.在AutobootModule同时按住+键和-键直到显示Update Unblock!
+
+3.[移除自启动PayloadLoader](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html)
+
+## 如果是旧的破解无法使用AutobootModule的方法
 
 > 这个阻止更新的办法比使用DNS屏蔽更加高级，需要使用一个自制程序来修改系统文件。且eShop的功能不会受到限制。
 
@@ -35,6 +37,6 @@ describe: 解除阻止系统更新
 4.按下A恢复更新文件夹并确认它的提示。
 - 你现在不再阻止系统更新了。Update folder exists
 
-### 方法3：解除DNS屏蔽
+## 解除DNS屏蔽
 
-进入Wii U的系统设置，然后打开：Internet（网络）> Connect to the Internet（连接至网络）> Connection List（接入点列表）>Your WiFi connection（你的WiFi接入点）> Change Settings（更改设定）> DNSAuto-obtain（自动获取）
+进入Wii U的系统设置，依次打开：Internet（网络）> Connect to the Internet（连接至网络）> Connection List（接入点列表）>Your WiFi connection（你的WiFi接入点）> Change Settings（更改设定）> DNSAuto-obtain（自动获取）
