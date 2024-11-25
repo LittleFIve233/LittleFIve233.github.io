@@ -16,9 +16,9 @@ describe: 卸载PayloadLoader
 
 ## 删除自启动
 
-**（Tiramisu）**启动主机时按住X将进入EnvironmentLoader，选择Installer
+**（Tiramisu）** 启动主机时按住X将进入EnvironmentLoader，选择Installer
 
-**（Aroma）**进入主菜单后选择PayloadLoader-installer
+**（Aroma）** 进入主菜单后选择PayloadLoader-installer
 
 1.选择Boot Options
 
