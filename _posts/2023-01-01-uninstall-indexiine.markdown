@@ -24,14 +24,18 @@ indexiine，都被大多数玩家~~和奸商~~称为网页固化，是替换了W
 
 ### 开始
 
-进入Tiramisu选择Mii工作室（6个Mii图标的软件）
+0.将下载的indexiine-installer.zip解压并将wiiu文件夹放入根目录，需要替换则选择替换
 
-1.进入HBL选择indexiine-installer后点Load
+1.进入Tiramisu选择Mii工作室（6个Mii图标的软件）
 
-2.按下B卸载安装的indexiine（切记一定不要重新安装！）
+2.选择indexiine-installer后点Load
 
-- 如果失败表示没有Backup-index.html，[请点击这里](https://github.com/LittleFIve233/LittleFIve233.github.io/blob/master/Backup-index.html)全选后复制，然后创建一个新文本文档命名为backup-index.html，并放到SD/wiiu/apps/indexiine-installer/文件夹中
+3.按下B卸载安装的indexiine（切记一定不要重新安装！）
 
-3.退出HBL并检查打开浏览器是否还会自动执行漏洞
+- 如果失败表示没有Backup-index.html，请使用下方链接中的文本创建backup-index.html文件
+
+  - [backup-index.html](https://github.com/LittleFIve233/LittleFIve233.github.io/blob/master/Backup-index.html) 将所有内容全选后复制，然后创建一个新文本文档命名为backup-index.html，并放到SD/wiiu/apps/indexiine-installer/文件夹中
+
+4.退出HBL并检查打开浏览器是否还会自动执行漏洞或者卡死
 
 > 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
