@@ -40,11 +40,11 @@ describe: 一切从这里开始
 
 <hr />
 
-## 目前的CFW简介
+## 目前WiiU已知的CFW
 
-- CFW为自制固件（Custom FirmWare）的缩写，它是运行自制程序~~或盗版游戏~~的基础
+**CFW为自制固件（Custom FirmWare）的缩写，它是运行自制程序~~或盗版游戏~~的基础**
 
-* **目前最推荐的CFW是Aroma，它是Tiramisu的升级版**
+**目前最推荐的CFW是Aroma，它是Tiramisu的升级版**
 
 * Aroma：Tiramisu的升级版，同样不需要花费任何费用，拥有插件加载器，扩展功能更强
 
@@ -60,15 +60,15 @@ describe: 一切从这里开始
 
 ## 之前破解过
 
-你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，
-
-或者直接[转为Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)来更加地方便地使用Wii U。
-
-如果需要中文系统，可以看[这个](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
-
 **请不要直接初始化主机和格式化储存卡！**
 
-**如果你购买了现成的破解机器而且自制程序乱的离谱，建议首选[加群沟通](https://wiiu.1919810.com/other/2023/02/05/contact.html)；如果你对自己信心不是很足但是之前了解过可以[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)然后按照自己的想法来**
+- 你可以通过[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)了解你现在在使用的是什么CFW，
+
+- 或者直接[转为Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)来更加地方便地使用Wii U。
+
+- 如果需要中文系统，可以看[这个](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html)
+
+**如果你购买了现成的破解机器而且自制程序乱的离谱，建议首选[加群沟通](https://wiiu.1919810.com/other/2023/02/05/contact.html)；如果你对自己信心不是很足但是之前了解过可以[检查破解](https://wiiu.1919810.com/wiiu/2023/02/04/CheckHacks.html)然后按照自己的想法来操作**
 
 [**主机出现问题了？可以查看此页尝试解决你的问题**](https://wiiu.1919810.com/wiiu/2023/02/05/QA.html)
 
@@ -80,15 +80,16 @@ describe: 一切从这里开始
 
 - **[在开始之前，请在 设置->电源管理 关闭自动关闭电源与快速启动菜单！](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1495/kw/Standby%20Functions)**
 
-  - *~~我跟你们说你们能不能不要顶着个快速启动菜单来问问题，20%的问题都是这玩意造成的我跟你们说，我一开始就让你们关咋就不听呢~~*
+  - *~~我求求你们能不能不要顶着个快速启动菜单来问问题，20%的问题都是这玩意造成的我跟你们说，我一开始就让你们关了啊~~*
 
-| 版本                    | 5.5.5(5.5.6 U)        | 5.5.5之前          |
-| ----------------------- | ------------ | ------------------------ |
-| Aroma            | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
-|  Tiramisu           | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     | 请更新到最新系统 |
+| 版本                    | 选择破解        |
+| ----------------------- | -------------- |
+| 5.5.5(5.5.6 U)          | [安装Aroma](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     |
+| 5.5.5(5.5.6 U)          | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)     |
+| 5.5.5之前               | 请更新到最新系统 |
 
-- 如果你实在是没法进行浏览器破解，可以试着使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
-- 如果你不知道怎么更新系统，请点击[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
+- 如果你因为Indexiine实在是没法进行浏览器破解，可以尝试使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
+- 如果你不知道怎么更新系统，请查看[此教程](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 - 如果你之前屏蔽了系统更新，请按照[此教程](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)恢复
 - 如果系统版本显示99.99.99，需要[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)
 
@@ -97,4 +98,4 @@ describe: 一切从这里开始
 | 卸载CBHC | [CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)     |
 | 卸载indexiine   | [indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)     |
 
-- 卸载过时的破解有助于方便做新破解，如果你现在不想卸载，后面的教程也会让你卸载，所以即使有旧破解也可以直接[开始教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)
+- 卸载过时的破解有助于方便做新破解，如果你现在不想卸载，接下来教程也会让你卸载，所以即使有旧破解也可以直接[开始教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html)
