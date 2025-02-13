@@ -14,12 +14,11 @@ describe: 完成安装
 
 现在你的主机已经安装了PayloadLoader、Environment Loader、Aroma（和Tiramisu）。
 
+- 当主机自动启动时，将会自动选择WiiU菜单作为默认启动项，可以通过开机按住 +键 进入AutobootModule更改
 - 当主机启动时按住 X键 即可进入EnvironmentLoader菜单切换CFW
 - 如果不想加载CFW，开机时按住 R键 即可
 
-当主机自动启动时，将会自动选择WiiU菜单作为默认启动项，可以通过开机按住+进入AutobootModule更改
-
-请注意，AutobootModule已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要开机按住+键后进入黑色菜单按住+和-直到Update Unblock!，才能使用系统更新
+请注意，AutobootModule已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要开机按住+键后进入黑色菜单按住+和-直到Update Unblock!后再去卸载PayloadLoader才能使用系统更新
 
 [如果出现199-9999错误，请检查储存卡](https://wiiu.1919810.com/wiiu/2023/02/05/QA.html#tiramisu%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF)
 
