@@ -8,17 +8,17 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 安装PayloadLoader
 ---
 
-## 介绍
+## PayloadLoader
 
 PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面的教程
 
-- 安装PayloadLoader将可以运行安全使用须知软件来访问Tiramisu。
+- 安装后将运行安全使用须知软件来访问PayloadLoader。
 
 **_请注意：初始化主机不会卸载注入的PayloadLoader。如果需要卸载，请按照[卸载PayloadLoader](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html)删除PayloadLoader。_**
 
 ## 浏览器漏洞
 
-- **请确保你的主机可以连接至互联网，再进行以下步骤**
+**请确保你的主机可以连接至互联网，再进行以下步骤**
 
 >[怎么给我的Wii U主机联网](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1126)
 
@@ -33,7 +33,7 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 - 如果你的Wii U卡住或者白屏了，请稍等。如果什么都没有出现，请长按**主机**电源键4秒或更长直至红灯来强制关机，重启后到浏览器设置里[重置浏览器保存的数据](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1507/~/how-to-delete-the-internet-browser-history)，然后再试一次。
 
->如果你以前安装过indexiine然后格式化存储卡导致进入浏览器就死机可以[尝试DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
+**如果你以前安装过indexiine然后格式化存储卡或者创建新用户导致进入浏览器自动死机可以使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)方法破解主机**
 
 ## 安装PayloadLoader
 
