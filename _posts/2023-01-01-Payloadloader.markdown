@@ -60,7 +60,8 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 1.启动WiiU，等待返回桌面
 
-2.按住X键并点击安全使用须知，你将进入EnvironmentLoader
+2.并点击安全使用须知，你将进入EnvironmentLoader
+- 如果没有进入EnvironmentLoader，请重启后按住X键再进入安全使用须知
 
 3.使用十字键将光标移动到installer并按A进入。
 
