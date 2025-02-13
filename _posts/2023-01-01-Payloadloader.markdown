@@ -71,4 +71,6 @@ PayloadLoader为加载Aroma/Tiramisu的重要前置，则无法继续做后面�
 
 6.当进程结束后，按下A键关闭主机
 
+<hr />
+
 ## [以上步骤全部完成后点我继续至安装CFW](https://wiiu.1919810.com/wiiu/2023/02/05/Hack.html)
