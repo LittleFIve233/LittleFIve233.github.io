@@ -44,4 +44,4 @@ describe: 完成安装
 
 ### [破解vWii](https://wiiu.1919810.com/wiiu/2023/02/04/hackvwii.html)*（如果前面没有做）*
 
-- 破解vWii才可以游玩wii游戏**和游玩ngc游戏**
+- 破解vWii才可以游玩wii游戏和游玩ngc游戏
