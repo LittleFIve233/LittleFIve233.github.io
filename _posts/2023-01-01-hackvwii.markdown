@@ -12,7 +12,7 @@ describe: 破解vWii
 
 ### 注意：这里的hbc和前文的hbl完全搭不上边！
 
-如果你以前破解过vWii，你可以使用该储存卡继续破解而不需要格式化
+如果你以前破解过vWii，你应该使用该储存卡继续破解而不是格式化
 
 <hr />
 
@@ -92,7 +92,7 @@ describe: 破解vWii
 
 1.第一次设定选项：
 
->Select cIOS: d2x-v11-beta1-vWii
+>Select cIOS: d2x-v11-[Ver]-vWii
 >
 >Select cIOS base: 56
 >
@@ -102,7 +102,7 @@ describe: 破解vWii
 
 2.第二次设定选项：
 
->Select cIOS: d2x-v11-beta1-vWii
+>Select cIOS: d2x-v11-[Ver]-vWii
 >
 >Select cIOS base: 57
 >
@@ -112,7 +112,7 @@ describe: 破解vWii
 
 3.第三次设定选项：
 
->Select cIOS: d2x-v11-beta1-vWii
+>Select cIOS: d2x-v11-[Ver]-vWii
 >
 >Select cIOS base: 58
 >
