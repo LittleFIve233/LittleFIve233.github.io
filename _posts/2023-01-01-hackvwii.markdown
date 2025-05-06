@@ -26,9 +26,9 @@ describe: 破解vWii
   - Aroma与HBL请按自己的情况选择
 
 - [Patched IOS 80 Installer for vWii](https://oscwii.org/library/app/Patched_IOS80_Installer_for_vWii#download)
-  - 请选择download
+  - 请选择Download
 
-- [d2x cIOS Installer](https://wii.hacks.guide/assets/files/d2x_cIOS_Installer-vWii.zip)
+- [d2x cIOS Installer](https://hbb1.oscwii.org/api/contents/d2x-cios-installer-vwii/d2x-cios-installer-vwii.zip)
 
 **请务必下载好文件，不然无法保证破解正常完成**
 
@@ -42,7 +42,7 @@ describe: 破解vWii
 
 2.将Patched_IOS80_Installer_for_vWii.zip中的**apps文件夹复制到WiiU的储存卡根目录**
 
-3.解压d2x_cIOS_Installer.zip到**储存卡根目录的apps文件夹中**
+3.解压d2x_cIOS_Installer.zip中的**apps文件夹复制到WiiU的储存卡根目录**
 
 > **注意！！！这里是指存储卡根目录也就是SD://apps文件夹，而不是SD://wiiu/apps文件夹，请将它们区分清楚！！不要再来问为什么自己放好了文件hbc里却一个软件也找不到！！**
 
