@@ -8,52 +8,53 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 检查破解
 ---
 
-## 前言
-
-该教程将检查你主机所安装的CFW，它们无疑**就只有三种**，检查它们的方法也非常简单
-
-**请注意：如果以下三种都没有检查出来那就是未破解状态**
-
-<hr />
-
 ## Aroma＆Tiramisu
 
 ### 简介
 
 Aroma无疑是现在最好的CFW了，它拥有插件加载器，它还是tiramisu的升级版，继承了一切来自tiramisu的好处，例如无需花钱无需担心初始化系统砖机，它们的前置叫payloadloader，以下方法用于检查payloadloader的安装状态
 
-#### 检查payloadloader
+#### 检查PayloadLoader（Aroma&Tiramisu）
 
-如果没有自启动payloadloader则是通过安全与健康程序运行CFW的，所以如果你的安全使用须知软件（黄色感叹号）打开后会自动返回Wii U菜单或者打开一些界面而不是安全与健康的介绍，代表着你没有做自启动payloadloader，而payloadloader则已被安装到安全使用须知
+检查payloaderloader要在打开安全使用须知软件（黄色感叹号）软件时按住X即可检查，通常会有以下的情况：
 
-自启动payloadloader在开机时就已经启动了，可以在开机时按住Start(+)或者是X键就能进入payloadloader选择界面或autobootmodule选择界面
+如果出现黑屏白字的英语大意说不要运行两次，则你的主机已安装payloadloader，且目前正在运行tiramisu或老版Aroma
+
+如果你的主机正常进入了安全健康须知，则需要拔下存储卡之后重启主机并重新进入安全健康须知，如果进入之后自动返回wiiu菜单，则你的主机已经安装payloadloader
+
+如果主机已经安装了自启动payloadloader，请在开机时按住 X键 尝试进入environmentloader
 
 <hr />
 
-## Haxchi&CBHC（脑锻炼破解固化）
+## Haxchi&CBHC（脑锻炼破解与冷启动脑锻炼固化）
 
 ### 简介
 
-Haxchi是以前大部分破解玩家或是一劳永逸玩家的首选，因为Haxchi可以更为CBHC，在开机时进行冷启动以省去不少时间打开CFW
+Haxchi是以前大部分破解玩家或是一劳永逸玩家的首选，通过被注入haxchi的DSVC软件启动自制系统。
+
+因为Haxchi可以变更为CBHC，在开机时冷启动自制系统以节省时间
 
 #### 检查Haxchi&CBHC
 
-检查CBHC很简单，在开机时会有Autobooting的黑屏画面，这就是CBHC，还可以通过看数据管理主机储存里有没有一个叫Don't touch me的软件。**！当你不知道干什么时，千万不要删除这个软件！**
+检查Haxchi要在主菜单上找是一个写着Haxchi的软件，不过商家一般会把它的启动图标和启动画面改成“一键破解”之类的应用，这个就是haxchi；或者直接打开游戏可能会跳出199-9999的错误，**这是没启用自制系统的报错**，如果你要安装aroma，可以直接进行正常步骤安装
 
-检查Haxchi可以去看桌面，一般的Haxchi就是一个写着Haxchi的软件，不过，商家一般会把它的启动图标和启动画面改了，一般叫“一键破解”，这个就是haxchi
+检查CBHC很简单，在开机时会有Autobooting的黑屏画面，这就是CBHC；或通过检查数据管理的主机储存中有没有一个叫Don't touch me的软件。**！当你不知道在干什么时，千万不要删除这个软件！**
 
 <hr />
 
-## Mocha&Indexiine（浏览器破解固化）
+## Mocha/Indexiine（浏览器破解与浏览器固化）
 
 ### 简介
 
-Mocha是大部分不想去购买DSVC的玩家的普遍选择，通常这些玩家~~以及商家~~会去做Indexiine来节省打开CFW的时间，商家们会叫它浏览器破解
+Mocha是通过网页破解启动HBL之后需要在HBL里选择MochaCFW自制程序（或IOSUHAX），通常大部分人会做Indexiine来节省打开它的时间，商家们会叫它浏览器破解
 
-#### 检查Mocha&Indexiine
+Indexiine则包含一个可配置的payload，以便indexiine，自启动mocha
 
-检查Mocha比上面说的CBHC更简单了，你可以开机后直接打开你自己安装的游戏，可能会跳出199-9999的错误，这就是还没启用CFW的报错
+#### 检查Mocha/Indexiine
 
-检查Indexiine同样很简单，在打开浏览器后（需要在首页而不是其他页面）等上几秒，看下是不是自动跳转到HBL或是其他的自制程序里或者可能自动卡死浏览器，是就代表你安装了Indexiine
+检查Mocha可以在开机后直接打开你自己安装的游戏，可能会跳出199-9999的错误，**这是没启用自制系统的报错**，如果你要安装aroma，可以直接进行正常步骤安装，**如果你一直需要打开网页破解则不需要检查！**
 
-**在线破解不用检查！**
+检查Indexiine需要在打开浏览器后（必须在首页而不是其他网页）等待几秒，判断会不会自动跳转到HBL或是其他的自制程序里或者自动卡死浏览器，如果出现了这些现象就代表你安装了Indexiine
+
+
+**请注意：如果以上三种都没有检查出来那就是未破解状态**
