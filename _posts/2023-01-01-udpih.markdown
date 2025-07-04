@@ -52,7 +52,7 @@ udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内�
 
 ### 设置树莓派PICO
 
-![pico导入uf2文件](https://pico.org.cn/images/blink-an-led-final.gif)
+![pico导入uf2文件](https://pico.nxez.com/getting-started/images/blink-an-led-final.gif)
 
 ### 设置Nintendo Switch
 
