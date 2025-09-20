@@ -14,9 +14,13 @@ describe: 疑难解答
 
 # 浏览器漏洞常见错误
 
-**FSGetMountSource failed**：重新插一下 SD 卡，然后再试一次。 请确保你的 SD 卡为 FAT32 格式。 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
+**FSGetMountSource failed**：未检测到SD卡。请确保你的SD卡为FAT32格式！如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理）并重新插入SD卡。
 
-**FSOpenFile failed […] payload.elf**： SD 卡上缺少 payload 文件。 请确认在 wiiu 文件夹下是否有一个叫做 payload.elf 的文件。
+**SD Mount failed**：无法正确挂载SD卡。说明SD卡已经被识别，但是格式可能不正确，请检测你的储存卡是否为FAT32格式，如果格式正确，请检测你的分区表引导是否为MBR！如果不是MBR请转换为MBR！
+
+**FSOpenFile failed […] payload.elf**： SD卡上缺少payload文件。请确认在wiiu文件夹下是否有一个叫做payload.elf的文件。
+
+**FSOpenFile failed**：缺少必要文件。如果是打开HBL或者Tiramisu自启动HBL时报错，可能是/wiiu/apps/homebrew_launcher里没有homebrew_launcher.elf
 
 # 常见问题
 
@@ -113,3 +117,4 @@ Aroma疑似有文件错误？尝试重新放入Aroma文件
 [请尝试USB漏洞（需要设备支持）](https://wiiu.1919810.com/wiiu/2023/02/01/udpih.html)或如果有NAND备份，请尝试使用硬改恢复。
 
 **如果是其他开机黑屏报错，请尝试向维修游戏机的师傅寻求帮助**
+
