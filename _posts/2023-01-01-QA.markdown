@@ -23,10 +23,10 @@ describe: 疑难解答
 > **由于Aroma引进了全新的插件功能，不稳定因素持续攀升！所以如果在本页无法解决你的问题，请加群与我交流**
 
 ## DO NOT RUN EXPLOIT TWICE
-表示CFW已经运行，如果是通过网页破解运行的CFW没有安装payloadloader，请重启主机并按照[此教程安装](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+表示CFW已经运行，如果是通过网页破解二次运行CFW想进入HBL，请使用Mii工作室打开HBL；如果没有正确安装破解，请重启主机并按照[此教程安装破解](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
 
 ## 使用完vWii Decaffeinator，系统无法更新，一直为最新状态
-请注意，AutobootModule已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要开机按住+键后进入黑色菜单按住+和-直到Update Unblock!后再去卸载PayloadLoader才能使用系统更新
+请注意，AutobootModule已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要开机按住+键后进入黑色菜单按住+和-直到Update Unblock!后再去卸载PayloadLoader才能使用系统更新，[请在使用之前请关闭屏蔽主机更新](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
 
 ## 启动游戏报错199-9999
 未检测到SD卡或者缺少sigpatches module。
@@ -42,26 +42,32 @@ describe: 疑难解答
 
 如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理），因为可能有一些灰尘积在卡槽里了。
 
+## 互联网设备均正常，但是主机无法连接到网络
+请不要将硬盘盒或其他干扰WiFi的东西放在主机附近
+
+## 主机无法更新系统，报错105-3029
+主机以前破解做过屏蔽系统更新，[请按照此教程关闭屏蔽主机更新](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
 
 ## Aroma提示…overflow buffer…
-尝试重新放入Aroma文件
+Aroma疑似有文件错误？尝试重新放入Aroma文件
 
 ## Aroma开机卡死
-快速启动菜单导致卡死或者SD卡破解文件不正常
+可能是快速启动菜单导致卡死或者SD卡破解文件不正常
 
 重启后如果正常请进入主机设置中的电源设置，将待机功能与自动关机功能关闭
+
 ~~说了一百遍了别开快速启动菜单怎么就是不听啊！！~~
 
 如果重启后不正常请重新放[破解文件](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)
 
 ## Aroma插件冲突
-将SD卡的wiiu/environment/aroma文件夹重命名，并按照[设置Aroma存储卡的教程](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)设置一个新Aroma后尝试排除插件问题
+将SD卡的wiiu/environment/aroma文件夹重命名，并按照[准备破解](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)中的准备储存卡文件设置一个新Aroma后尝试排除插件问题
 
 ## 打开浏览器自动卡死或显示DO NOT RUN EXPLOIT TWICE
 需要[卸载indexiine](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-indexiine.html)
 
 ## 频道版HBL内任意软件卡死（仅限Tiramisu）
-> 请注意：如果你需要[自启动中文系统](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html#%E5%BC%80%E5%A7%8B)，请勿执行此步骤
+> 请注意：如果你需要[Tiramisu自启动中文系统](https://wiiu.1919810.com/wiiu/2023/02/04/install-CHJsystem.html#%E5%BC%80%E5%A7%8B)，请勿执行此步骤
 
 如果想删除Mii工作室注入的HBL，请删除SD:/wiiu/environments/tiramisu/modules/setup内的50_hbl_installer
 
@@ -76,11 +82,9 @@ describe: 疑难解答
 若在主机闪存中，请尝试初始化主机，若问题依然存在，则主机闪存寿命可能已经到头了
 
 ## WUPInstallerGX2出现sigpatch或checkSDFAT32提示：
-
 检查是否有[放入sigpatch_module](https://wiiu.1919810.com/wiiu/2023/02/05/prepare.html#%E5%87%86%E5%A4%87sd%E5%8D%A1)或安装包是否完整
 
 ## 系统版本显示99.99.99：
-
 这是CBHC的屏蔽更新，只需要[卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)即可
 
 ## 初始化后系统重要软件缺失，例如光盘图标等图标
@@ -104,7 +108,8 @@ describe: 疑难解答
 重启主机，更新系统（如果不行就初始化系统），查看图标是否已经正常。
 
 ## 开机直接出现黑屏报错160-0103
-
 系统无法启动默认桌面程序，已经砖机...
 
 [请尝试USB漏洞（需要设备支持）](https://wiiu.1919810.com/wiiu/2023/02/01/udpih.html)或如果有NAND备份，请尝试使用硬改恢复。
+
+**如果是其他开机黑屏报错，请尝试向维修游戏机的师傅寻求帮助**
