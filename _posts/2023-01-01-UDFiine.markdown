@@ -1,28 +1,32 @@
 ---
 layout: post
-title: "阻止系统更新"
+title: "屏蔽主机更新"
 date: 2022-02-02 09:40:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 阻止系统更新
+describe: 屏蔽主机更新
 ---
 
 # 阻止系统更新
 
 ## 前言
 
-目前所有已知的 Wii U 漏洞都可以被通过更新系统失效。
+目前所有已知的Wii U系统漏洞都可以被通过更新系统失效。
 虽然Wii U不再会得到任天堂官方的技术支持，但任天堂仍然可以为其发布新的系统更新。
 
-**版本5.5.3，5.5.4，5.5.5，5.5.6U都是在Wii U停产后发布的，也就是说，因此阻止更新仍然是建议的操作**
+**版本5.5.3，5.5.4，5.5.5，5.5.6U都是在Wii U停产后发布的，也就是说屏蔽主机更新仍然是建议的操作**
 
 <hr />
 
 ## 开始
 
-目前有一种方法可以非常有效阻止系统更新！
+PayloadLoader已经屏蔽主机更新，AutobootModule可以选择进一步屏蔽主机更新
 
 ### 通过AutobootModule删除更新文件夹
 
-PayloadLoader已经屏蔽主机更新，AutobootModule可以选择屏蔽更新，可以通过开机（没有自启动则打开安全使用须知）按住+键进入AutobootModule选择界面，按+键和-键屏蔽更新（Update Blocked！）
+1.开机（没有自启动则打开安全使用须知）按住+键进入AutobootModule选择界面
+
+2.按+键和-键屏蔽更新（Update Blocked！）
+
+3.现在进一步屏蔽主机更新已经启用
