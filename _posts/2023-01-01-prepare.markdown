@@ -44,7 +44,7 @@ describe: 准备破解
 
 - Aroma：[aroma.foryour.cafe](https://aroma.foryour.cafe/)
 
->将四个警示都打钩后，选择下载Base和Aroma的所有内容，Module中请选择除了USB Serial logging模块的所有模块
+>将Download中四个警示都打钩后，开始选择下载Base、Aroma以及Additional Plugins and Modules中的所有内容，你不需要USB Serial logging和Wiiload plugin，请不要下载！
 >
 >把压缩包中的wiiu文件夹全部放入wiiu SD卡中的根目录
 
@@ -56,10 +56,11 @@ describe: 准备破解
 
 >请下载01_sigpatches.rpx并放在SD://wiiu/environments/[Tiramisu\Aroma]/modules/setup文件夹中
 >
->请下这个请下这个请下这个请下这个请下这个请下这个不下不能装游戏
+>**请下这个请下这个请下这个请下这个请下这个请下这个不下不能装游戏**
 
 **如果一切步骤正常，那么SD卡的文件应该只有wiiu文件夹被更新了！**
 <hr />
 ## [以上步骤全部完成后继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
 <hr />
 ## [若不想对NAND进行备份，请继续安装Payloadloader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+
