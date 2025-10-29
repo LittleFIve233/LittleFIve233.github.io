@@ -38,7 +38,7 @@ describe: 准备破解
 
 ### 从这里下载你需要的文件：
 
-*你可以一起下载Aroma和Tiramisu或只下载一个*
+**你可以一起下载Aroma和Tiramisu或任选其一**
 
 *若无法下载请挂梯*
 
@@ -65,5 +65,6 @@ describe: 准备破解
 ## [以上步骤全部完成后继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
 <hr />
 ## [若不想对NAND进行备份，请继续安装Payloadloader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+
 
 
