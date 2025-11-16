@@ -34,7 +34,7 @@ describe: 准备破解
 
 将储存卡格式化为FAT32 **（如果你之前拥有别的破解，请不要格式化！）**
 
-- [64G或更大的储存卡可能需要其他工具进行格式化为FAT32](https://github.com/inconsistent-dg/guiformat/releases/tag/v1.0.1.0)
+- [64G或更大的储存卡可能需要其他工具进行格式化为FAT32](https://www.sdcard.org/downloads/formatter/eula_windows/SDCardFormatterv5_WinEN.zip)
 
 - 储存卡簇大小建议使用64K(65536)
 
@@ -67,6 +67,7 @@ describe: 准备破解
 ## [以上步骤全部完成后继续（制作NAND备份）](https://wiiu.1919810.com/wiiu/2022/02/04/Dump-NAND.html)
 <hr />
 ## [若不想对NAND进行备份，请继续安装Payloadloader](https://wiiu.1919810.com/wiiu/2023/02/05/Payloadloader.html)
+
 
 
 
