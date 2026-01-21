@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "屏蔽主机更新"
+title: "屏蔽及解除屏蔽主机更新"
 date: 2026-01-21 16:20:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 屏蔽与解除屏蔽主机更新
+describe: 屏蔽及解除屏蔽主机更新
 ---
 
 ## 屏蔽主机更新
@@ -55,3 +55,4 @@ describe: 屏蔽与解除屏蔽主机更新
 ### 删除DNS屏蔽
 
 进入Wii U的系统设置，依次打开：Internet（网络）> Connect to the Internet（连接至网络）> Connection List（接入点列表）>Your WiFi connection（你的WiFi接入点）> Change Settings（更改设定）> DNSAuto-obtain（自动获取）
+
