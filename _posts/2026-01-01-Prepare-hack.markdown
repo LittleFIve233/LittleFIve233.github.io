@@ -1,16 +1,12 @@
 ---
 layout: post
-title: "准备破解"
+title: "卸载过时的破解"
 date: 2026-01-21 16:50:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 准备破解
+describe: 卸载过时的破解
 ---
-
-## 准备破解
-
-<hr />
 
 ## 之前破解过
 
@@ -48,5 +44,6 @@ describe: 准备破解
 - 如果Indexiine无法正常卸载，请继续至[准备SD卡](#如确保一切准备就绪请继续至准备sd卡)
 
 <hr />
+
 
 ## [如确定一切准备就绪，请继续至准备SD卡]()
