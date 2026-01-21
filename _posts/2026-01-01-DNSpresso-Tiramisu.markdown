@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "通过DNSpresso安装破解"
+title: "通过DNSpresso安装Tiramisu"
 date: 2023-02-05 10:38:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 通过DNSpresso安装破解
+describe: 通过DNSpresso安装Tiramisu
 ---
 
 ## **注意：如果你在中国大陆或者其他无法访问外部网络的地方，可能部分情况受到当地运营商影响，所以建议不要首选使用此方法！**
@@ -38,4 +38,4 @@ describe: 通过DNSpresso安装破解
 
 6.你的主机在连接到互联网时会卡住，别担心，这是正常的，等待一会后会出现黑色咖啡杯界面，接着就进入了Payloadloader
 
-## [继续至安装Tiramisu]()
+## [继续至安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)
