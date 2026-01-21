@@ -20,7 +20,7 @@ describe: 完成安装
 
 Wii模式与Wii U并不相连，需要额外进行破解才能使用Wii的自制程序（例如Nintendont、USBLoaderGX等），若不破解Wii VC也可以正常使用
 
-vWii（Virtual Wii）破解教程：[]()
+[vWii（Virtual Wii）破解教程](https://wiiu.1919810.com/wiiu/2023/02/04/Hack-vWii.html)
 
 ### EnvironmentLoader快捷键
 
@@ -30,11 +30,9 @@ vWii（Virtual Wii）破解教程：[]()
 
 ### 安装其他自制程序
 
-安装软件的教程可以查看这个
+[安装软件和自制程序的教程可以查看这个](https://wiiu.1919810.com/wiiu/2026/01/21/WUPinstaller.html)
 
-安装自制程序的教程可以查看这个
-
-安装中文系统补丁可以查看这个
+[安装中文系统补丁可以查看这个](https://wiiu.1919810.com/wiiu/2026/01/21/Install-CHSystem.html)
 
 ### Pretendo Network
 
@@ -43,4 +41,3 @@ vWii（Virtual Wii）破解教程：[]()
 如果开机后需要输入Nintendo Network ID的密码，以及左上角出现了类似Pretendo的字样，则你现在正在使用私服。
 
 Pretendo Network是Nintendo Network的代替品。现在Nintendo Network服务仅剩ID服务和下载已购买的软件；Pretendo Network则正在恢复联机服务
-
