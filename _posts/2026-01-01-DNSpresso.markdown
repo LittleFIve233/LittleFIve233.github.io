@@ -38,4 +38,4 @@ describe: 通过DNSpresso安装Aroma
 
 6.你的主机在连接到互联网时会卡住，别担心，这是正常的，等待一会后会出现黑色咖啡杯界面，接着就进入了Payloadloader
 
-## [继续至安装Aroma]()
+## [继续至安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)
