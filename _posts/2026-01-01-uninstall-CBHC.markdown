@@ -14,7 +14,7 @@ describe: 卸载CBHC
 
 ## 准备
 
-[Tiramisu]()
+[Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Tiramisu.html)
 
 [最新版CBHC](https://wiiubru.com/appstore/zips/cbhc.zip)
 
@@ -39,3 +39,4 @@ describe: 卸载CBHC
 - 如果出现了报错指出“系统内存错误”，请不要担心，重启主机再尝试删除
 
 **在删除 DON'T TOUCH ME 请确保你真的遵循了此页步骤！！~~不然砖机分分钟到你家门口~~**
+
