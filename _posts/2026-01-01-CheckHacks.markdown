@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "检查Wii U破解"
-date: 2023-02-04 16:00:00 +0800
+date: 2026-01-21 16:00:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
