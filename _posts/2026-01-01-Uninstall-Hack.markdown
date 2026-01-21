@@ -16,7 +16,7 @@ describe: 卸载破解
 
 ## 删除自启动
 
-[**如之前有进行屏蔽主机更新，请首先恢复主机更新！**](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-UDFiine.html)
+[**如之前有进行屏蔽主机更新，请首先恢复主机更新！**](https://wiiu.1919810.com/wiiu/2026/01/21/UDFiine.html)
 
 **（Tiramisu）** 启动主机时按住X将进入EnvironmentLoader，选择Installer
 
@@ -48,3 +48,4 @@ describe: 卸载破解
 4.该过程完成后，按A关闭主机
 
 > 现在PayloadLoader已从主机中完全移除，如果还想再次破解主机建议遵循本教程进行破解
+
