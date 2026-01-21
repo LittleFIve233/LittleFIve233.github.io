@@ -18,9 +18,7 @@ describe: 破解vWii
 
 ### 准备
 
-- [WiiU破解正常运作](https://wiiu.1919810.com/wiiu/2023/02/05/Hack-WiiU.html)
-
-- 最新的Tiramisu或者Aroma（如果你是跟着本教程全新或者重新安装破解，将不需要下载）
+- [WiiU的破解正常运行](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-WiiU.html)
 
 - [最新的vwii-compat-installer](https://github.com/Xpl0itU/vwii-compat-installer/releases)
   - Aroma与HBL请按自己的情况选择
