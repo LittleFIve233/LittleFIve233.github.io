@@ -54,6 +54,7 @@ describe: 准备SD卡
 
 | 选择破解方式              |
 | ----------------------   |
-| [浏览器漏洞]()            |
+| [浏览器漏洞](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)            |
 
-- 如果你因为以前安装了Indexiine无法正常卸载导致没法进行浏览器破解，可以尝试使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
+- 如果你因为以前安装了Indexiine无法正常卸载导致没法进行浏览器破解，可以尝试使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso-Tiramisu.html)
+
