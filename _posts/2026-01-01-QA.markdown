@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "疑难解答"
-date: 2026-01-21 16:49:00 +0800
+date: 2026-01-21 16:59:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
@@ -116,5 +116,6 @@ Aroma疑似有文件错误？尝试重新放入Aroma文件
 [请尝试USB漏洞（需要设备支持）]()或如果有NAND备份，请尝试使用硬改恢复。
 
 **如果是其他开机黑屏报错，请尝试向维修游戏机的师傅寻求帮助**
+
 
 
