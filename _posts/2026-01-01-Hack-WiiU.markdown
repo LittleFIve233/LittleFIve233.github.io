@@ -22,7 +22,7 @@ describe: 一切从这里开始
 
 **暂不提供isfshax的教程**
 
-[如果在破解中遇到了问题可以加入我的QQ群聊与我交流尝试解决](https://wiiu.1919810.com/other/2023/02/05/contact.html)
+[如果在破解中遇到了问题可以加入我的QQ群聊与我交流尝试解决](https://wiiu.1919810.com/other/2026/01/21/Contact-me.html)
 
 <hr />
 
@@ -48,9 +48,9 @@ describe: 一切从这里开始
 
 - [如果你不知道怎么更新系统，请使用翻译在任天堂官网查看如何更新系统](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1136)
 
-- **[如果系统版本显示99.99.99，需要卸载CBHC]()**
+- **[如果系统版本显示99.99.99，需要卸载CBHC](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-CBHC.html)**
 
-- **[如果你以前有破解过主机且在更新主机时报错*105-3029*，请先解除屏蔽主机更新]()**
+- **[如果你以前有破解过主机且在更新主机时报错*105-3029*，请先解除屏蔽主机更新](https://wiiu.1919810.com/wiiu/2026/01/21/UDFiine.html#%E9%80%9A%E8%BF%87autobootmodule%E8%A7%A3%E9%99%A4%E5%B1%8F%E8%94%BD%E4%B8%BB%E6%9C%BA%E6%9B%B4%E6%96%B0)**
 
 <hr />
 
@@ -62,10 +62,10 @@ describe: 一切从这里开始
 
 | 主机版本                    | 选择自制固件      |
 | -------------------------- | ----------------  |
-| 5.5.5J/E(5.5.6 U)          | [安装Aroma]()     |
-| 5.5.5J/E(5.5.6 U)          | [安装Tiramisu]()  |
+| 5.5.5J/E(5.5.6 U)          | [安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)     |
+| 5.5.5J/E(5.5.6 U)          | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)  |
 | 5.5.5及之前                 | 请更新到最新系统  |
 
 | 破解vWii                   | 选择自制固件      |
 | -------------------------- | ----------------  |
-| 5.5.5J/E(5.5.6 U)          | [破解vWii]()     |
+| 5.5.5J/E(5.5.6 U)          | [破解vWii](https://wiiu.1919810.com/wiiu/2023/02/04/Hack-vWii.html)     |
