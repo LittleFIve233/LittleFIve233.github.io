@@ -52,4 +52,4 @@ describe: 安装Tiramisu
 
 <hr />
 
-## [如上述步骤一切完成，请继续至完成安装]()
+## [如上述步骤一切完成，请继续至完成安装](https://wiiu.1919810.com/wiiu/2026/01/21/Finalizing-Setup.html)
