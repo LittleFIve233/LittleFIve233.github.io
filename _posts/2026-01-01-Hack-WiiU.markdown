@@ -64,8 +64,8 @@ describe: 一切从这里开始
 
 | 主机版本                    | 选择自制固件      |
 | -------------------------- | ----------------  |
-| 5.5.5J/E(5.5.6 U)          | [安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)     |
-| 5.5.5J/E(5.5.6 U)          | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)  |
+| 5.5.5J/E(5.5.6 U)          | [安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)     |
+| 5.5.5J/E(5.5.6 U)          | [安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Tiramisu.html)  |
 | 5.5.5及之前                 | 请更新到最新系统  |
 
 | 破解vWii                   | 选择自制固件      |
