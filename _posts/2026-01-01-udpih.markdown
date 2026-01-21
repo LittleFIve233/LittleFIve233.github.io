@@ -1,0 +1,127 @@
+---
+layout: post
+title: "USB漏洞救砖（udpih）"
+date: 2026-01-21 16:05:00 +0800
+categories: WiiU
+tags: hacks WiiU
+img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
+describe: USB漏洞救砖
+---
+
+## 前言
+
+udpih漏洞可以通过wiiu前端的USB口触发漏洞从而直接访问iosu内核。
+
+**（本漏洞可救cbhc砖机，字库砖机，mlc文件错删砖机）**
+
+<hr />
+
+## 需要什么？
+
+- 主机损坏前是最新系统（日欧5.5.5，美版5.5.6）
+
+- 一台电脑并安装Python
+
+- 一张SD卡（需要FAT32）
+
+- 一个搭载RP2040的设备（例如树莓派PICO）或一台破解的NintendoSwitch（假设你都没有，你可以选用树莓派PICO，这是最便宜的设备）
+
+- 可传输数据的数据线
+
+<hr />
+
+# 准备
+
+[udpih](https://github.com/GaryOderNichts/udpih/releases/)
+
+> RP2040（树莓派PICO）下载udpih_pico.uf2
+
+[udpih_nxpayload.bin](https://github.com/GaryOderNichts/udpih_nxpayload/releases/)
+
+> 已破解的Nintendo Switch请下载udpih_nxpayload.bin
+
+[recovery menu](https://github.com/GaryOderNichts/recovery_menu/releases/)
+
+> 请下载recovery_menu，如果你的gamepad无法使用recovery menu，那请下载带_dc_init的文件
+
+## 准备设备
+
+设置储存卡：
+
+将recovery_menu文件放入wiiu SD卡的根目录中
+
+### 设置树莓派PICO
+
+![pico导入uf2文件](https://pico.nxez.com/getting-started/images/blink-an-led-final.gif)
+
+### 设置Nintendo Switch
+
+将udpih_nxpayload放入Switch储存卡的bootloader/payload文件夹，打开hekate然后选择payloads选项并点击udpih_nxpayload.bin
+
+**你不用全做一遍……做一个设备够用就行**
+
+<hr />
+
+## 开始
+
+**注意在开始前请断开WiiU主机的所有USB设备，且正前方的两个USB端口必须能用！**
+
+1.插入储存卡，准备好插入你的设备，**注意必须是wiiu前面的USB口！**
+
+> （如果用的是Switch，请将Type-C数据线的USB口提前插入wiiu主机前面的USB口并进入udpih_payload）
+
+2.从按下电源启动wiiu后默数7-9秒，使劲插入前端的USB口
+
+> （如果用的是Switch，请在8秒时按下电源键选择Run UDPIH gadget）
+
+稍后，你将会进入recovery_menu
+
+<hr />
+
+## 救砖
+
+**主机上的eject选择，power确定！**
+
+### cbhc砖机
+
+cbhc是因为系统无法加载默认桌面导致的
+
+1.请选择``Set Coldboot Title``
+
+2.会出现JPN，USA，EUR三个选项，对应你的主机选择对应区域即可恢复
+
+### 使用ftp恢复mlc文件（解决字库问题等）
+
+1.[配备Python](https://www.python.org/)
+
+2.[查找系统软件titleID](https://wiiubrew.org/wiki/Title_database)
+
+3.配备脚本（可以对汉化游戏脚本画瓢），或者使用[wupclient.py](https://wiki.hacks.guide/wiki/Wii_U:Wupclient)
+
+4.配置recovery_menu网络
+
+首先创建一个文本文档.txt，在文本文档中填写下面的内容：（不要文字。。从type开始复制就行了）
+
+**配置WiFi连接：**
+
+> ``type=wifi``
+>
+> ``ssid=网络名``
+> 
+> ``key=网络密码``
+>
+> ``key_type=WPA2_PSK_AES``
+
+**配置以太网（网线）：**
+
+>``type=eth``
+
+选择文件->另存为，文件编码需要选择ANSI，然后命名为network.cfg。
+
+5.在recovery_menu选择``Start wupserver``
+
+6.运行自行编写的脚本或者wupcilent用自己的方法救砖
+
+<hr />
+
+### 请注意：由于wiiu拥有文件缓存机制，修改完后需要选择``back``，然后再选``shutdown``关机，才能保证文件修改成功
