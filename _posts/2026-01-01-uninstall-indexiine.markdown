@@ -14,7 +14,7 @@ describe: 卸载indexiine
 
 ### 准备
 
-[Tiramisu]()
+[Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Tiramisu.html)
 
 [下载indexiine installer](https://wwaoz.lanzoum.com/iugIz3gpzs5i)
 
@@ -36,4 +36,5 @@ describe: 卸载indexiine
 
 4.退出HBL并检查打开浏览器是否还会自动执行漏洞或者卡死
 
-> 如需恢复系统更新，[请点击这里继续]()
+> 如需恢复系统更新，[请点击这里继续](https://wiiu.1919810.com/wiiu/2026/01/21/UDFiine.html)
+
