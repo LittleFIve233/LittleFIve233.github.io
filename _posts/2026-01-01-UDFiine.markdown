@@ -37,7 +37,7 @@ describe: 屏蔽与解除屏蔽主机更新
 
 > 如果原本就提示update not blocked!，请按住按键直到显示一次update blocked!，再按住显示update not blocked!以确保正确关闭了屏蔽系统更新
 
-3.[移除自启动](https://wiiu.1919810.com/wiiu/2023/02/01/uninstall-PayloadLoader.html)
+3.[移除自启动](https://wiiu.1919810.com/wiiu/2026/01/21/Uninstall-Hack.html#%E5%88%A0%E9%99%A4%E8%87%AA%E5%90%AF%E5%8A%A8)
 
 ### 如果使用的是旧的破解无法使用AutobootModule的方法
 
