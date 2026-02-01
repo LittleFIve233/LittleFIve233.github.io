@@ -16,7 +16,7 @@ describe: 破解vWii
 
 <hr />
 
-### 准备
+## 准备文件
 
 - [WiiU的破解正常运行](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-WiiU.html)
 
@@ -54,7 +54,7 @@ describe: 破解vWii
 
 <hr />
 
-### 备份nand
+## 备份nand
 
 如果之前跟着教程备份过，请检查slccmpt.bin是否有备份，如果没有请把nanddumper调为此状态重新dump：
 
@@ -70,7 +70,7 @@ describe: 破解vWii
 
 <hr />
 
-### 安装the Homebrew Channel
+## 安装the Homebrew Channel
 
 1.确保WiiU已经破解
 
@@ -86,7 +86,7 @@ describe: 破解vWii
 
 <hr />
 
-### 安装cIOS
+## 安装cIOS
 
 **请保证你储存卡的apps文件夹里没有*任何*的.wad文件**
 
@@ -136,7 +136,7 @@ describe: 破解vWii
 
 <hr />
 
-### 为IOS80打补丁
+## 为IOS80打补丁
 
 **注意：如果因为任何原因你的WiiU在给IOS80打补丁的时候关机，这都将损坏你的vWii！如果你不小心损坏了vWii，[请参考此教程恢复](https://wiiu.1919810.com/wiiu/2023/02/04/RecvWii.html)**
 
