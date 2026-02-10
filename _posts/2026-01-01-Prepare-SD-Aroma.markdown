@@ -32,17 +32,13 @@ describe: 准备SD卡
 > 
 > **蓝奏云直链为我已经整合好的固件包，Aroma官网下载请自行组合**
 >
-> [https://wwaoz.lanzoum.com/izpdo3gpj3zc](https://wwaoz.lanzoum.com/izpdo3gpj3zc)
+> [https://wwaoz.lanzoum.com/iD3eK3i8nmsd](https://wwaoz.lanzoum.com/iD3eK3i8nmsd)
 >
 > 将压缩包中的wiiu文件夹放入wiiu的**SD卡的根目录**！
 
 > **Aroma官网：**
 >
 > [aroma.foryour.cafe](https://aroma.foryour.cafe/)
->
-> 将Download中四个警示都打钩
->
-> ![aroma](https://wiiu.hacks.guide/assets/img/guide/Aroma_Box.png)
 >
 > 选择下载Base、Aroma以及Additional Plugins and Modules中的所有内容
 >
@@ -67,6 +63,7 @@ describe: 准备SD卡
 | [浏览器漏洞](https://wiiu.1919810.com/wiiu/2026/01/21/Browser-exploit-Aroma.html)            |
 
 - 如果你因为以前安装了Indexiine无法正常卸载导致没法进行浏览器破解，可以尝试使用[DNSpresso](https://wiiu.1919810.com/wiiu/2023/02/05/DNSpresso.html)
+
 
 
 
