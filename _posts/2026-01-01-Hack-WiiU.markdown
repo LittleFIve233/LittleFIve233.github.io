@@ -8,7 +8,7 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 一切从这里开始
 ---
 
-## 前言
+## 在开始之前
 
 本教程将会教你将你的Wii U成功运行自制固件（CFW）
 
