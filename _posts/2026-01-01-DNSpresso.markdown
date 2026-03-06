@@ -8,13 +8,19 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 通过DNSpresso安装Aroma
 ---
 
-## **注意：如果你在中国大陆或者其他无法访问外部网络的地方，可能部分情况受到当地运营商影响，所以建议不要首选使用此方法！**
+## **注意：如果你身处中国大陆或者其他无法访问全球网络的地方，有可能部分情况会受到当地运营商影响，请在尝试推荐方法或得到帮助之后使用此方法！**
 
-**请确保你的主机可以连接至互联网，再进行以下步骤**
+### 准备
 
-[怎么给我的Wii U主机联网](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1126)
+**将存储卡的wiiu文件夹中的payload.rpx复制到根目录，并将其重命名为launch.rpx**
 
-**有线网络也可以使用此方法**
+**确保主机可以连接网络**
+
+> [怎么给我的Wii U主机联网](https://en-americas-support.nintendo.com/app/answers/detail/a_id/1126)
+>
+> 有线网络也可以使用此方法
+
+### 通过DNSpresso安装Aroma
 
 1.打开主机设置-网络-连接到网络
 
@@ -22,9 +28,9 @@ describe: 通过DNSpresso安装Aroma
 
 - 如果已保存接入点，请新建一个接入点后，按X打开接入点列表
 
-2.选择用于破解接入点，继续选择变更设置
+2.选择将要用于破解的接入点，继续选择变更设置
 
-3.在DNS选择不自动获取，并在主DNS输入
+3.在DNS选项中选择不自动获取，并在主DNS输入以下DNS
 
 - **85.215.57.182**
 
@@ -36,6 +42,9 @@ describe: 通过DNSpresso安装Aroma
 
 5.选择刚刚设置的接入点并在列表中选择连接测试
 
-6.你的主机在连接到互联网时会卡住，别担心，这是正常的，等待一会后会出现黑色咖啡杯界面，接着就进入了Payloadloader
+6.你的主机在连接到互联网时会卡住，别担心，这是正常的
+
+7.稍后将会出现黑色咖啡杯界面，这代表破解已经完成，此时将会进入Payloadloader
 
 ## [继续至安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)
+
