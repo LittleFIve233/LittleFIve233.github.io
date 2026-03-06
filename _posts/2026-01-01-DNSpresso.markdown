@@ -12,7 +12,7 @@ describe: 通过DNSpresso破解
 
 ## 准备
 
-**将存储卡的wiiu文件夹中的payload.rpx复制到根目录，并将其重命名为launch.rpx**
+**请下载[PayloadFromRPX](https://github.com/wiiu-env/PayloadFromRPX/releases/download/v0.1/PayloadFromRPX_20220904-161613.zip)，然后将root.rpx放入根目录，并重命名为Launch.rpx**
 
 **确保主机可以连接网络**
 
@@ -26,7 +26,7 @@ describe: 通过DNSpresso破解
 
 - 推荐设置两个或多个接入点，首个用于连接网络，后者用于破解
 
-- 如果已保存接入点，请新建一个接入点后，按X打开接入点列表
+- 如果已有保存的接入点，请新建一个接入点后，按X打开接入点列表
 
 2.选择将要用于破解的接入点，继续选择变更设置
 
@@ -44,11 +44,14 @@ describe: 通过DNSpresso破解
 
 6.你的主机在连接到互联网时会卡住，别担心，这是正常的
 
-7.稍后将会出现黑色咖啡杯界面，这代表破解已经完成，此时将会进入Payloadloader
+> 如果失败卡在连接测试，请关机并从第 5 步重新开始
+
+7.稍后将会出现黑色咖啡杯界面，这代表破解已经完成，现在将会进入Payloadloader
 
 ## [继续至安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)
 
 <hr />
 
 ## [继续至安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)
+
 
