@@ -8,7 +8,7 @@ img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
 describe: 安装软件或自制程序
 ---
 
-## Wup installer GX2安装软件教程
+## Wup installer GX2安装软件游戏教程
 
 ### 需要什么？
 
@@ -43,14 +43,14 @@ describe: 安装软件或自制程序
 
 <hr />
 
-## （Tiramisu）在HBL中添加自制程序
-
-下载任意自制程序(.elf或.rpx)，把它放入SD:/wiiu/apps/[与自制程序名字相同的文件夹]/
-
-> 例如Savemii_WUT：**SD:/wiiu/apps/Savemii_WUT/Savemii_WUT.rpx/.elf**
-
 ## （Aroma）Aroma添加自制程序
 
 **注意！Aroma已不再支持老旧的.elf自制程序！HBL也是其一！！**
 
 下载任意自制程序(.wuhb或.rpx)，把它放入SD/wiiu/apps文件夹中
+
+## （Tiramisu）在HBL中添加自制程序
+
+下载任意自制程序(.elf或.rpx)，把它放入SD:/wiiu/apps/[与自制程序名字相同的文件夹]/
+
+> 例如Savemii_WUT：**SD:/wiiu/apps/Savemii_WUT/Savemii_WUT.rpx/.elf**
