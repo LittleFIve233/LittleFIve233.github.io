@@ -12,7 +12,7 @@ describe: 疑难解答
 
 <hr />
 
-# 浏览器漏洞常见错误
+## 浏览器漏洞常见错误
 
 **FSGetMountSource failed**：未检测到SD卡。请确保你的SD卡为FAT32格式！如果问题仍然存在，请尝试吹吹卡槽（或尝试其他方法清理）并重新插入SD卡。
 
@@ -22,12 +22,12 @@ describe: 疑难解答
 
 **FSOpenFile failed**：缺少必要文件。如果是打开HBL或者Tiramisu自启动HBL时报错，可能是/wiiu/apps/homebrew_launcher里没有homebrew_launcher.elf
 
-# 常见问题
+# 破解使用常见问题
 
 > **由于Aroma引进了全新的插件功能，不稳定因素持续攀升！所以如果在本页无法解决你的问题，请加群与我交流**
 
 ## DO NOT RUN EXPLOIT TWICE
-表示CFW已经运行，如果是通过网页破解二次运行CFW想进入HBL，请使用Mii工作室打开HBL；如果没有正确安装破解，请重启主机并按照[此教程安装破解]()
+表示CFW已经运行，如果是通过网页破解二次运行CFW想进入HBL，请使用Mii工作室打开HBL；如果没有正确安装破解，请重启主机并按照[教程安装破解](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-WiiU.html)
 
 ## 使用完vWii Decaffeinator，系统无法更新，一直为最新状态
 请注意，AutobootModule已经阻止了系统更新，因此在使用某些需要更新功能的自制程序时（例如vWii Decaffeinator）需要开机按住+键后进入黑色菜单按住+和-直到Update Unblock!后再去卸载PayloadLoader才能使用系统更新，[请在使用之前请关闭屏蔽主机更新](https://wiiu.1919810.com/wiiu/2026/01/21/UDFiine.html)
@@ -65,7 +65,7 @@ Aroma疑似有文件错误？尝试重新放入Aroma文件
 如果重启后不正常请重新放[破解文件](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)
 
 ## Aroma插件冲突
-将SD卡的wiiu/environment/aroma文件夹重命名，并按照[准备储存卡文件](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)教程设置一个新Aroma后尝试排除插件问题
+将SD卡的wiiu/environment/aroma文件夹重命名，并按照[准备储存卡文件](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)教程设置一个新Aroma环境后尝试排除插件问题
 
 ## 打开浏览器自动卡死或显示DO NOT RUN EXPLOIT TWICE
 需要[卸载indexiine](https://wiiu.1919810.com/wiiu/2026/01/21/uninstall-indexiine.html)
@@ -80,9 +80,9 @@ Aroma疑似有文件错误？尝试重新放入Aroma文件
 这里指的是软件没有安装完成而残留的文件。请总是确认删除这些数据，因为它们本来就没有存在的必要。如果它一直卡在删除数据的进程中，那么你可以选择自己手动删除这些数据。使用 FTPiiU 然后浏览至​```/storage_mlc/usr/import​```然后删除这个文件夹中任何存在的文件。这是未完成安装的东西存放的地方。如果安装到USB设备中，则应该是​```/storage_usb/usr/import​```文件夹。​```import​```文件夹里应始终都没有内容。
 
 ## 安装的游戏打开时卡死：
-如果是安装在USB存储设备中，可能USB存储设备出问题了，若插拔USB设备后依然有此问题，请考虑换新USB设备或者重新安装游戏
+如果是安装在USB存储设备中出现的，可能USB存储设备出问题了，若插拔USB设备后依然有此问题，请考虑换新USB设备或者重新安装游戏
 
-若在主机闪存中，请尝试初始化主机，若问题依然存在，则主机闪存寿命可能已经到头了
+若在主机闪存中出现的，请尝试初始化主机，若问题依然存在，可能主机闪存的寿命已经到头了
 
 ## WUPInstallerGX2出现sigpatch或checkSDFAT32提示：
 检查是否有[放入sigpatch_module](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)或安装包是否完整
@@ -100,23 +100,24 @@ Aroma疑似有文件错误？尝试重新放入Aroma文件
 
 请打开```/vol/storage_slc/config/```文件夹，并从文件夹中下载sys_prod.xml。
 
-**请仅仅修改指定区域的文本，乱动会引起砖机！请小心再小心**
+**请仅仅修改指定区域的文本，胡乱编辑别的数据可能会引起砖机！请小心再小心**
 
 用文本软件修改第6行game_region type的119改回原区域数值，日版为1，美版为2，欧版为4。
 
 ![image](https://user-images.githubusercontent.com/68946023/162920585-114d1dc9-91bf-463e-bfc3-a6a23d5f64f1.png)
 
-**请确认已经已经认真细心且除了game_region type的数值其他与原文件一模一样再替换回去！**
+**请确认已经已经认真确定除了game_region type的数值其他与原文件一模一样再替换回去！**
 
-重启主机，更新系统（如果不行就初始化系统），查看图标是否已经正常。
+重启主机，打开主机设置选择初始化系统，初始化结束后检查图标是否已经正常。
 
 ## 开机直接出现黑屏报错160-0103
-系统无法启动默认桌面程序，已经砖机...
 
-[请尝试USB漏洞（需要设备支持）](https://wiiu.1919810.com/wiiu/2026/01/21/udpih.html)或如果有NAND备份，请尝试使用硬改恢复。
+系统无法启动默认桌面程序，为常见的CBHC砖机
+
+[请尝试USB漏洞（需要硬件设备支持）](https://wiiu.1919810.com/wiiu/2026/01/21/udpih.html)恢复原数值
 
 **如果是其他开机黑屏报错，请尝试向维修游戏机的师傅寻求帮助**
 
+## 格式化存储卡后无法开机
 
-
-
+请检查主机电源灯光颜色，如果为蓝中带紫则代表你安装了isfshax，请寻求他人的帮助解决
