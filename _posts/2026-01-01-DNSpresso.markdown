@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "通过DNSpresso安装Aroma"
+title: "通过DNSpresso破解"
 date: 2023-02-05 10:38:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 通过DNSpresso安装Aroma
+describe: 通过DNSpresso破解
 ---
 
 > **注意：如果你身处中国大陆或者其他无法访问全球网络的地方，部分情况有可能会受到当地运营商影响，请在尝试推荐方法或得到帮助之后使用此方法！**
@@ -47,5 +47,5 @@ describe: 通过DNSpresso安装Aroma
 7.稍后将会出现黑色咖啡杯界面，这代表破解已经完成，此时将会进入Payloadloader
 
 ## [继续至安装Aroma](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Aroma.html)
-
-
+<hr />
+## [继续至安装Tiramisu](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-Tiramisu.html)
