@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "准备SD卡"
+title: "准备SD卡（Aroma）"
 date: 2026-01-21 16:55:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 准备SD卡
+describe: 准备SD卡（Aroma）
 ---
 
 ## 准备SD卡
@@ -14,7 +14,7 @@ describe: 准备SD卡
 
 请将储存卡格式化为FAT32 
 
-> **如果你之前拥有别的破解，请不要格式化！**
+> **如果你之前拥有其他破解，请不要格式化！**
 
 - [64G或更大的储存卡可能需要其他工具进行格式化为FAT32](https://www.sdcard.org/downloads/formatter/eula_windows/SDCardFormatterv5_WinEN.zip)
 
