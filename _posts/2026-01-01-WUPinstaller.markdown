@@ -12,16 +12,16 @@ describe: 安装软件或自制程序
 
 ### 需要什么？
 
-**可移动设备的文件（最好是电脑而不是手机OTG）**
+**可移动文件的设备（最好是电脑而不是手机OTG）**
 
 **建议至少32GB的SD卡**
 
 **你的安装包文件（请自行寻找，本博客不提供游戏下载）**
 
-对于Aroma，请使用：**[Wup installer GX2 WUHB](https://github.com/Fangal-Airbag/wup-installer-gx2/releases/tag/v1.3.1)**
+对于Aroma，请使用：**[Wup installer GX2 WUHB](https://github.com/Fangal-Airbag/wup-installer-gx2/releases)**
 
 - 请放入SD:/wiiu/apps/文件夹中
- - 此外，[在这里附上由博主汉化的Wup installer GX2 WUHB](https://github.com/LittleFIve233/wup-installer-gx2-wuhb-zh/releases/tag/wuhb(zh-hans))
+ - 此外，[在这里附上由博主汉化的Wup installer GX2 WUHB](https://github.com/LittleFIve233/wup-installer-gx2-wuhb-zh/releases)
 
 对于Tiramisu，请使用：**[Wup installer GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2/releases/download/v1/wup_installer_gx2.elf)**
 
