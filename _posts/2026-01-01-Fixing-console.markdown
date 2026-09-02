@@ -104,6 +104,10 @@ describe: 疑难解答&修复主机
 
 如果没有正确安装破解，请重启主机并按照[教程安装破解](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-WiiU.html)
 
+## WUPInstallerGX2出现sigpatch或checkSDFAT32提示：
+
+检查是否有[放入sigpatch_module](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)或安装包是否完整
+
 ### 安装的游戏打开后卡死
 
 如果是安装在USB存储设备中出现的，可能USB存储设备出问题了，若插拔USB设备后依然有此问题，请考虑换新USB设备或者重新安装游戏
