@@ -104,7 +104,7 @@ describe: 疑难解答&修复主机
 
 如果没有正确安装破解，请重启主机并按照[教程安装破解](https://wiiu.1919810.com/wiiu/2026/01/21/Hack-WiiU.html)
 
-## WUPInstallerGX2出现sigpatch或checkSDFAT32提示：
+### WUPInstallerGX2出现缺少sigpatch或checkSDFAT32提示
 
 检查是否有[放入sigpatch_module](https://wiiu.1919810.com/wiiu/2026/01/21/Prepare-SD-Aroma.html)或安装包是否完整
 
