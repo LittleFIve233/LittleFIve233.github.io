@@ -130,6 +130,10 @@ describe: 疑难解答&修复主机
 
 ## 主机按照教程破解中途出现问题
 
+### 主机在进入Aroma后左上角出现一些乱七八糟的提示
+
+这是正常的，请仔细阅读提示，并按L↓select调整提示中出现的插件
+
 ### 打开浏览器自动卡死、自动加载破解或者自动显示DO NOT RUN EXPLOIT TWICE
 
 以前可能安装过indexiine（网页破解固化），需要[卸载indexiine](https://wiiu.1919810.com/wiiu/2026/01/21/uninstall-indexiine.html)
