@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "准备SD卡"
+title: "准备SD卡（Tiramisu）"
 date: 2026-01-21 16:54:00 +0800
 categories: WiiU
 tags: hacks WiiU
 img: https://s11.ax1x.com/2024/03/02/pF0RUs0.png
-describe: 准备SD卡
+describe: 准备SD卡（Tiramisu）
 ---
 
 ## 准备SD卡
