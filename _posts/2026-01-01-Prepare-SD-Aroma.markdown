@@ -32,7 +32,7 @@ describe: 准备SD卡（Aroma）
 > 
 > **蓝奏云直链为我已经整合好的固件包，Aroma官网下载请自行组合**
 >
-> [https://wwaoz.lanzoum.com/iHjP344co1cd](https://wwaoz.lanzoum.com/iHjP344co1cd)
+> [https://wwaoz.lanzouc.com/iFd8e4b1knoj](https://wwaoz.lanzouc.com/iFd8e4b1knoj)
 >
 > Aroma-Beta-27
 >
